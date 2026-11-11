@@ -9,13 +9,9 @@ The tool was used to write the Python code, run the experiments on my GPU, produ
 
 # Part 1: Data Loading and Preprocessing
 
-The constants used throughout Part 1:
-
 ![Configuration constants](outputs/part1/Configuration.png)
 
 ## 1.1 Data loading and random subset selection
-
-Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` seeds the RNG with **595**, draws 2,000 images with `random.sample(image_list, 2000)`, and splits them into 1,600 training, 200 validation and 200 test images together with their captions.
 
 ![Data loading and splitting code](outputs/part1/data_loading_splitting.png)
 
@@ -24,11 +20,6 @@ Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` se
 ![Image transform code](outputs/part1/image_transform.png)
 
 ## 1.3 Text normalisation and tokenisation
-
-1. **Normalisation** — lower-case and remove all non-alphanumeric characters (`normalize_caption`).
-2. **Framing** — prepend `<start>` and append `<end>` (`frame_caption`).
-3. **Vocabulary** — built from the training captions only, keeping words that appear at least 5 times, plus `<pad>`, `<start>`, `<end>`, `<unk>`; `word2idx` and `idx2word` are the two mappings (`Vocabulary`).
-4. **Tokenisation and padding** — words are mapped to integers, unknown words to `<unk>`, and every sequence is padded with `<pad>` to the longest training sequence (`Vocabulary.encode`, `pad_sequence_to`).
 
 ![Text normalisation, vocabulary and padding code](outputs/part1/text_normalization_vocabulary.png)
 
@@ -39,8 +30,6 @@ Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` se
 `FlickrSubsetDataset` returns each image after the image transform, together with its 5 encoded captions.
 
 ![Dataset class code](outputs/part1/FlickrSubsetDataset.png)
-
-The resulting vocabulary has **1,226** entries (1,222 words + 4 special tokens) and every caption is padded to length **35**.
 
 ## 1.4 Visual display: 3 random subset images with their preprocessed captions
 

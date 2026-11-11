@@ -25,7 +25,7 @@ from torchvision import transforms
 # --------------------------------------------------------------------------- #
 # Configuration
 # --------------------------------------------------------------------------- #
-SEED = 595                      # last three digits of the matriculation number
+SEED = 595                      
 SUBSET_SIZE = 2000
 N_TRAIN, N_VAL, N_TEST = 1600, 200, 200
 MIN_WORD_FREQ = 5               # words seen < 5 times in training become <unk>
