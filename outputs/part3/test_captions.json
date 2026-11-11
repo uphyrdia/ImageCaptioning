@@ -1,0 +1,2402 @@
+[
+ {
+  "image": "488416045_1c6d903fe0.jpg",
+  "references": [
+   "A brown dog is running along a beach .",
+   "A brown dog wearing a black collar running across the beach .",
+   "A dog walks on the sand near the water .",
+   "Brown dog running on the beach .",
+   "The large brown dog is running on the beach by the ocean ."
+  ],
+  "model_a": "two brown dogs are playing in the grass",
+  "model_b": "a brown dog is running on the beach"
+ },
+ {
+  "image": "3631986552_944ea208fc.jpg",
+  "references": [
+   "A surfer catching a big wave in the ocean .",
+   "A surfer going through a wave .",
+   "A surfer in water and foam .",
+   "A surfer rides the crashing waves .",
+   "The surfer catches a big wave but stays on his board ."
+  ],
+  "model_a": "a man is riding a wave on a surfboard",
+  "model_b": "a man is riding a wave"
+ },
+ {
+  "image": "2228022180_9597b2a458.jpg",
+  "references": [
+   "A bunch of asian children on steps .",
+   "A large group of Asian children sit on or stand near steps .",
+   "Group of children in blue uniforms sitting on steps .",
+   "Little children in school uniforms congregate on the steps .",
+   "Many school children dressed in the same uniform are sitting on stairs ."
+  ],
+  "model_a": "a group of people are sitting on a stage",
+  "model_b": "a group of children are sitting in a crowd"
+ },
+ {
+  "image": "3323952123_deb50b0629.jpg",
+  "references": [
+   "A black dog in a red collar running in the snow .",
+   "A black dog with a red collar is running on the snow .",
+   "A black dog with a red collar plays in the snow .",
+   "A lack dog leaps in front of a tree branch in the snow .",
+   "Cute black doing playing in snow ."
+  ],
+  "model_a": "a black dog runs through the grass",
+  "model_b": "a black dog is running through the grass"
+ },
+ {
+  "image": "3228517564_74b00a923b.jpg",
+  "references": [
+   "a boy in green jacket is riding a small motocross bike through the mud .",
+   "A dirt biker in the mud .",
+   "A young boy riding a dirt bike through the mud .",
+   "A young child rides a bike on a rough dirt path .",
+   "A young child rides a motorbike through the mud ."
+  ],
+  "model_a": "a man is riding a bike on a bike",
+  "model_b": "a man is riding a bike on a bike"
+ },
+ {
+  "image": "3279228339_71deaa3d9b.jpg",
+  "references": [
+   "A man sits alone in a diner reading a book .",
+   "A man sits in a booth at a diner .",
+   "The kitchen worker at a restaurant observes the dining room , including a man in a red jacket .",
+   "This is the inside of a small restaurant , with a cook in the background , and two men in booths .",
+   "Two men are sitting by themselves in a cafe ."
+  ],
+  "model_a": "a man in a black shirt is sitting in a <unk>",
+  "model_b": "a man in a <unk> <unk> <unk>"
+ },
+ {
+  "image": "2141713971_e25eb12712.jpg",
+  "references": [
+   "A woman and a girl ride a sled down a hill standing up .",
+   "A woman and a younger girl , both wearing blue jackets and knit caps , slide down a hill on a snow sled , a dog running at their side .",
+   "A woman and a young girl riding a sled down a snowy hill while standing .",
+   "A woman and girl riding downhill on a sled with a dog running alongside them",
+   "Two people on a sled riding down a snowy hill ."
+  ],
+  "model_a": "two people are standing in the snow",
+  "model_b": "a man in a red jacket is walking through the snow"
+ },
+ {
+  "image": "2662262499_3cdf49cedd.jpg",
+  "references": [
+   "A baseball hitter holding a bat falling down .",
+   "A baseball player runs on the field .",
+   "A boy at bat playing a baseball game falls to the ground while onlookers watch .",
+   "A child in a uniform is falling to the ground with a bat in his or her hand .",
+   "This baseball player , dressed in red and white uniform and holding a bat , is falling after being hit by a pitch ."
+  ],
+  "model_a": "a man in a red uniform is running through the air",
+  "model_b": "a man in a red uniform is running through the air"
+ },
+ {
+  "image": "506738508_327efdf9c3.jpg",
+  "references": [
+   "Two men dressed in white formal clothes and sunglasses pose , while one holds a drink .",
+   "Two men in white suits and glasses with a drink .",
+   "Two men in white suits cheer",
+   "Two men wearing white suits and sunglasses are at a party punching their hands into the air .",
+   "Two young men in sunglasses and white suits raise their arms and smile in a bar ."
+  ],
+  "model_a": "two men in a white shirt and white shirt and white <unk>",
+  "model_b": "a woman wearing a white shirt and white <unk> and white <unk> and white <unk> and white <unk> and white <unk> and white <unk> and white <unk> and a white and white <unk> and"
+ },
+ {
+  "image": "3486538055_bcf4d3dfda.jpg",
+  "references": [
+   "A black dog and a brown dog are playing rough on green grass .",
+   "A brown dog is biting a black dog .",
+   "A German shepherd and a tan dog are fighting .",
+   "A tan dog and a black dog fighting inside a fenced yard .",
+   "Two dogs biting each other playfully while jumping"
+  ],
+  "model_a": "a black dog is jumping over a ball",
+  "model_b": "a dog is running through the grass"
+ },
+ {
+  "image": "3745451546_fc8ec70cbd.jpg",
+  "references": [
+   "A hiker ascends a snowy hill .",
+   "A man reaches the top of a tall sand dune .",
+   "A person is hiking to the top of a hill .",
+   "A person walks up a white sandy hill against the blue sky .",
+   "The person is wearing shorts and climbing a gray sand hill under a blue sky ."
+  ],
+  "model_a": "a person is jumping through the air",
+  "model_b": "a dog is jumping through the air"
+ },
+ {
+  "image": "2885382946_f541ea5722.jpg",
+  "references": [
+   "A boy and two men shooting off a water rocket at the beach .",
+   "A group of people are standing on the beach in front of some boats .",
+   "A group of people launch an air rocket in front of a marina .",
+   "A lady and a little boy use a pump to launch a rocket at a marina .",
+   "A little boy made blasted something off with water ."
+  ],
+  "model_a": "a group of people sit on a dock",
+  "model_b": "a group of people sitting on a <unk> on the beach"
+ },
+ {
+  "image": "2200901777_f6c168bd32.jpg",
+  "references": [
+   "A closeup of a teenage girl wearing red beads .",
+   "A girl with a Gonzaga sweatshirt and red beads smiles .",
+   "a teenager is wearing a grey hooded top and some red beads around her neck .",
+   "A young woman with light brown hair wearing a red beaded neclace , a Gonzaga sweatshirt and earrings stands smiling .",
+   "Young blond woman with red beads , gray sweatshirt marked GONTAGA ."
+  ],
+  "model_a": "a girl in a blue shirt is sitting on the camera",
+  "model_b": "a girl in a black shirt and a <unk> shirt is holding a <unk>"
+ },
+ {
+  "image": "2745811124_12c4426b8b.jpg",
+  "references": [
+   "A blond girl standing in a crowd holding a goat on a leash .",
+   "A girl holding a sheep by the leash in a busy fair setting",
+   "A girl in a crowd in holding on to a leashed sheep .",
+   "A little girl is in a crowd of people holding a rope attached to a sheep .",
+   "The young girl is holding a yellow leash attached to a sheep ."
+  ],
+  "model_a": "two men are sitting in a <unk>",
+  "model_b": "a group of people are standing in a <unk>"
+ },
+ {
+  "image": "3659769138_d907fd9647.jpg",
+  "references": [
+   "A plane flies with a cloud of smoke behind it .",
+   "A plane is diving through the sky creating a cloud of smoke behind it .",
+   "a small airplane flying through the air with lots of smoke coming out of the plane .",
+   "A stunt plane is billowing smoke into a clear , grey sky .",
+   "The airplane is billowing smoke and looks like it may crash ."
+  ],
+  "model_a": "a man is <unk> on the air",
+  "model_b": "a man is performing a <unk>"
+ },
+ {
+  "image": "2419797375_553f867472.jpg",
+  "references": [
+   "A girl sits in a car wearing sunglasses and a hat .",
+   "a girl wears black sunglasses .",
+   "A little girt in sunglasses and warm coat going for a ride .",
+   "A small child with winter gear wears black sunglasses and a blue hat .",
+   "A smiling child wearing a hat and sunglasses sits in a car ."
+  ],
+  "model_a": "a woman with a black and white jacket and a black and white dog is walking",
+  "model_b": "a girl in a black jacket is holding a <unk>"
+ },
+ {
+  "image": "2908512223_7e27631ed4.jpg",
+  "references": [
+   "A little girl in a yellow dress and pink boots running down the street",
+   "A little girl in a yellow dress is prancing down the sidewalk .",
+   "A little girl in pink boots runs down the street .",
+   "A young girl in a dress runs along a street toward the camera .",
+   "The little girl in the yellow dress and the pink boots strides down the sidewalk ."
+  ],
+  "model_a": "a woman in a pink dress is walking down a street",
+  "model_b": "a girl in a pink dress is walking down a street"
+ },
+ {
+  "image": "3091962081_194f2f3bd4.jpg",
+  "references": [
+   "A man wearing glasses and black clothing is sitting while a man in a vest drinks in the background .",
+   "A man with glasses wearing all black sits on grass surrounded by other people .",
+   "A salt-and-pepper-haired man with beard and glasses wearing black sits on the grass .",
+   "Closeup of a man at an event with formal attire .",
+   "The man is dressed in black and smiling while another man is drinking and an elderly woman is standing near a fence ."
+  ],
+  "model_a": "a man in a black jacket and a woman in a black jacket and a backpack",
+  "model_b": "a man in a black jacket and a man and a woman in a black jacket and a black jacket and a woman in a black jacket and a black jacket and a woman"
+ },
+ {
+  "image": "3683592946_262e9bfbfd.jpg",
+  "references": [
+   "A bird is standing on a rock next to her six babies .",
+   "a mommy duck walking along some rocks with a group of baby ducks .",
+   "An adult duck stands on a rock with seven baby ducks nearby .",
+   "The mother bird looks over her babies .",
+   "There is a grown duck and several baby ducks ."
+  ],
+  "model_a": "three people are standing on a <unk>",
+  "model_b": "a <unk> and a <unk> and a <unk> and a <unk> and a <unk> and a <unk> <unk> in the grass"
+ },
+ {
+  "image": "2550011909_6b95f11330.jpg",
+  "references": [
+   "People lighting sparklers .",
+   "The children play with sparklers at night .",
+   "Three children look down at a sparkler firework .",
+   "Three children playing with sparklers .",
+   "three children play with sparklers ."
+  ],
+  "model_a": "a woman is sitting in the <unk> of a <unk>",
+  "model_b": "a woman in a black shirt is standing in the air"
+ },
+ {
+  "image": "2573625591_70291c894a.jpg",
+  "references": [
+   "The three dogs ran in the yard .",
+   "three dogs are running across the grass near to a blue industrial building .",
+   "Three dogs are running in a field .",
+   "Three dogs run away from a patch of non-grassy surface leaving one another dog behind .",
+   "Three dogs that are different shades of brown and white are running in a field ."
+  ],
+  "model_a": "a dog is running through the grass",
+  "model_b": "two dogs are running in the grass"
+ },
+ {
+  "image": "2067362863_59577f9d4d.jpg",
+  "references": [
+   "A brown dog is jumping up at another dog in front of the man in jeans .",
+   "A tan dog is grappling another tan dog on gravel while someone stands narby .",
+   "Two dogs engaged in physical contact with a man in the background .",
+   "Two dogs play fighting on sand .",
+   "Two dogs wrestle or hug ."
+  ],
+  "model_a": "two dogs are playing in the grass",
+  "model_b": "two dogs are playing in the air"
+ },
+ {
+  "image": "525538142_7348f0bce7.jpg",
+  "references": [
+   "The two boys , one in orange the other in teal , wrestle in the sand .",
+   "Two boys are playing in the sand at a playground .",
+   "Two boys tussle in the sand at a park .",
+   "Two boys wrestle together in the sand .",
+   "Two young boys are wrestling in a sand pit ."
+  ],
+  "model_a": "two children are playing in the sand",
+  "model_b": "two children are walking on the beach"
+ },
+ {
+  "image": "539667015_fd0a3bea07.jpg",
+  "references": [
+   "A girl doing the splits in midair .",
+   "A girl is doing the splits in the air in front of some trees .",
+   "A woman grabbing her feet while jumping in front of trees .",
+   "A young girl doing a trick in midair in front of a tree .",
+   "Jumping girl grabs her feet , plants in background ."
+  ],
+  "model_a": "a young girl in a blue shirt is jumping on a <unk>",
+  "model_b": "a little girl in a <unk> shirt is jumping"
+ },
+ {
+  "image": "1427391496_ea512cbe7f.jpg",
+  "references": [
+   "A child in a black shirt standing on a wooden dock near a picnic table .",
+   "A little boy is smiling for the camera on a playground",
+   "A young boy holds onto a blue handle on a pier .",
+   "A young child stands on a wood dock next to the water .",
+   "Boy in green sweater with white stripe on sleeve standing on wood planked floor with body of water in the background ."
+  ],
+  "model_a": "a boy is standing on a playground",
+  "model_b": "a boy is standing on a <unk>"
+ },
+ {
+  "image": "2963672852_c28043bb2c.jpg",
+  "references": [
+   "A biker jumps an obstacle .",
+   "A man is jumping over a low wall holding a bicycle .",
+   "A man walks over a small sign carrying his bicycle .",
+   "Man carries bike over obstacle",
+   "The biker carries his bike over the obstacle ."
+  ],
+  "model_a": "a man in a yellow shirt is riding a bike",
+  "model_b": "a man is riding a bicycle on a bicycle"
+ },
+ {
+  "image": "2451988767_244bff98d1.jpg",
+  "references": [
+   "a boy with his leg wrapped in blue tape",
+   "A little boy with his leg covered in painters tape , his brother wearing a superman cape .",
+   "Boy with blue cast sits with a boy in an orange cape .",
+   "One boy has his leg wrapped in blue material and the other boy is wearing a red cape .",
+   "two kids playing super heroes"
+  ],
+  "model_a": "two children are sitting on a <unk>",
+  "model_b": "a little boy is sitting on a <unk>"
+ },
+ {
+  "image": "2877088081_7ca408cb25.jpg",
+  "references": [
+   "A boy in jeans and a black shirt skating down a stair rail .",
+   "A skateboarder goes down a railing .",
+   "A teenager performing a trick on a stairway in public .",
+   "Man with helmet performing a trick while rollerblading .",
+   "The teenage boy is grinding a skateboard on a steep rail ."
+  ],
+  "model_a": "a man jumps off a skateboard",
+  "model_b": "a man is jumping on a skateboard trick on a ramp"
+ },
+ {
+  "image": "3520922312_e58a6cfd9c.jpg",
+  "references": [
+   "A couple walking down the street .",
+   "A man and a woman walk in across a courtyard with black messenger bags on their shoulders .",
+   "A man and woman walk hand-in-hand surrounded by large trees .",
+   "a young couple both wearing white shirts and blue jeans walking down a wooden pier .",
+   "Two people carrying bags walk together ."
+  ],
+  "model_a": "a man and a woman in a white jacket and a white jacket is walking on a sidewalk",
+  "model_b": "a man and a woman is walking down a <unk>"
+ },
+ {
+  "image": "3589156060_3ed8d6bbc3.jpg",
+  "references": [
+   "A man is playing with a dog in some water .",
+   "A person plays with their dog in a shallow pond .",
+   "A wet dog and person in a marsh .",
+   "There is person standing in water and playing with a dog .",
+   "The white dog in front of the person standing in the water is jumping up ."
+  ],
+  "model_a": "a dog is running through the water",
+  "model_b": "two girls are playing in the water"
+ },
+ {
+  "image": "3355827928_c96c0c3e88.jpg",
+  "references": [
+   "A bicyclist is in midair on a cloudy day .",
+   "A man on a bicycle , airborne .",
+   "A man on a bike in midair",
+   "A man on a bike in midair",
+   "A person on a bmx bike ."
+  ],
+  "model_a": "a man is doing a bicycle on a bicycle",
+  "model_b": "a man is doing a bicycle on a bicycle on a bicycle"
+ },
+ {
+  "image": "314904143_5a216a192b.jpg",
+  "references": [
+   "A man with rock climbing equipment is hanging from a vertical , white rock .",
+   "A woman climbing a rocky cliff .",
+   "A woman doing rock climbing .",
+   "a woman with a ponytail climbing a rock wall",
+   "A young woman with a ponytail climbs a white stone structure ."
+  ],
+  "model_a": "a woman is climbing a rock climbing a rock wall",
+  "model_b": "a man is climbing a rock wall"
+ },
+ {
+  "image": "3558796959_fc4450be56.jpg",
+  "references": [
+   "An asian tennis player returning a serve .",
+   "A tennis player on a clay court runs to the ball .",
+   "a woman in a white shirt is playing tennis",
+   "a woman returns the tennis ball .",
+   "Tennis player running for the ball ."
+  ],
+  "model_a": "a man in a blue shirt is playing in a tennis racket",
+  "model_b": "a woman in a blue shirt and blue shorts is jumping on a tennis ball"
+ },
+ {
+  "image": "393810324_1c33760a95.jpg",
+  "references": [
+   "A large black dog and a small brown dog are playing in the house .",
+   "A large black dog has his paw on a small brown dog .",
+   "A large black dog relaxes while a small brown dog investigates nearby a doorway .",
+   "two dogs play together .",
+   "Two dogs tussling on a dog bed , with a french door and a Persian rug in the background ."
+  ],
+  "model_a": "two dogs are playing in the grass",
+  "model_b": "a black dog is running on a wooden fence"
+ },
+ {
+  "image": "2460159430_71ab1aacfa.jpg",
+  "references": [
+   "A brown dog races through a field .",
+   "a brown dog running through the tall grass .",
+   "A dog running in long grass , a housing development behind it .",
+   "A tan dog is bounding through grass .",
+   "Two dogs running through tall grass ."
+  ],
+  "model_a": "a brown dog is running through the grass",
+  "model_b": "a brown dog is running through a grassy field"
+ },
+ {
+  "image": "3608400551_d6f7965308.jpg",
+  "references": [
+   "A man is playing fetch with a dog .",
+   "a man with tatoos playing fetch with a white dog with a black ear",
+   "A tattooed man with a white dog jumping up for a stick .",
+   "A white dog jumps in the air after a stick .",
+   "The white dog jumps for an object thrown by his master ."
+  ],
+  "model_a": "a man and a white dog is running in the air",
+  "model_b": "a white dog is running through the grass"
+ },
+ {
+  "image": "2458033289_f0616879df.jpg",
+  "references": [
+   "A man in a hat standing in front of a tire shop .",
+   "A man standing in front of a garage .",
+   "A man with a beard stands in front of a used tires business .",
+   "The man at the used tire shop has a white beard .",
+   "The man with a white beard and blue cap is standing in the doorway of a workshop ."
+  ],
+  "model_a": "a man and a woman in a <unk> <unk> <unk>",
+  "model_b": "a man with a white shirt is standing on a <unk>"
+ },
+ {
+  "image": "3416460533_d5819fbf69.jpg",
+  "references": [
+   "A man in a blue an yellow coat ski jumps .",
+   "A person jumping down a hill on skis .",
+   "A skier splits his or her legs while flying throught the air over a ski hill .",
+   "A skier is performing a trick high in the air over a snowy area .",
+   "The skier is jumping high above the snow ."
+  ],
+  "model_a": "a snowboarder is jumping over a <unk>",
+  "model_b": "a person is doing a snowboard"
+ },
+ {
+  "image": "2238759450_6475641bdb.jpg",
+  "references": [
+   "A curly haired girl is dragging a grey inflatable raft with a red paddle into the water .",
+   "A girl in a yellow headscarf is pulling a boat to the water .",
+   "A woman pulls an inflatable boat into the water .",
+   "a woman pulls her raft into the water .",
+   "Someone is pulling an inflatable boat with an oar in it ."
+  ],
+  "model_a": "a man in a <unk> <unk>",
+  "model_b": "a woman is <unk> a <unk> on a lake"
+ },
+ {
+  "image": "2136992638_098d62a3c5.jpg",
+  "references": [
+   "A brown and a black dog are wearing collars and playing with each other .",
+   "A brown dog biting a black dog on a sidewalk",
+   "The brown dog with a red collar is biting the black dog .",
+   "Two dogs , one brown and one black , playing with each other .",
+   "Two dogs , one brown , the other black and white , are playing on a sidewalk ."
+  ],
+  "model_a": "a brown dog is standing on a <unk>",
+  "model_b": "a dog with a red collar is walking on a <unk>"
+ },
+ {
+  "image": "96985174_31d4c6f06d.jpg",
+  "references": [
+   "A hiker is walking along a path at the foot of some snowcapped mountains .",
+   "A man walks near mountains .",
+   "A man with ski poles stands in front of a mountain .",
+   "The person is walking in the mountains .",
+   "The skier is looking at the snowcapped mountains ."
+  ],
+  "model_a": "a man is sitting on a cliff",
+  "model_b": "a man is standing on a <unk> mountain"
+ },
+ {
+  "image": "416650559_cd08d3cd96.jpg",
+  "references": [
+   "a man dressed in a batman costume .",
+   "A man dressed like late 80 's movie Batman .",
+   "A man is posing dressed in a Batman costume .",
+   "A man is wearing a Batman costume with a cape .",
+   "A person dressed as Batman poses for a picture ."
+  ],
+  "model_a": "a woman in a <unk> <unk>",
+  "model_b": "a man is holding a <unk> <unk>"
+ },
+ {
+  "image": "3667157255_4e66d11dc2.jpg",
+  "references": [
+   "An Olympic winner takes home two medals .",
+   "an Olympic winner wearing her two gold medals and a grey jacket showing a peace sign and a wave",
+   "A woman wearing two medals holds up seven fingers .",
+   "Woman wearing two gold medals holding up her hands .",
+   "Woman with two medals around her neck , holding up seven fingers ."
+  ],
+  "model_a": "a man and a woman in a blue shirt and a blue shirt",
+  "model_b": "two women are standing in front of a <unk>"
+ },
+ {
+  "image": "1452361926_6d8c535e32.jpg",
+  "references": [
+   "A boy sits in a toy car while drinking from his sippy cup .",
+   "A toddler drinking from a cup in a toy car .",
+   "A toddler in a red toy car drinks from a juice cup",
+   "The boy sits in his toy car sipping from a cup .",
+   "The child sits in a toy car and drinks from a sippy cup ."
+  ],
+  "model_a": "two children are sitting on a <unk>",
+  "model_b": "a little boy is sitting on a <unk>"
+ },
+ {
+  "image": "2209496328_2a34fd201d.jpg",
+  "references": [
+   "A Golden Labrador is swimming through water with a red toy in its mouth .",
+   "A white dog swimming while holding a orange toy in his mouth .",
+   "A white dog swims in the water while holding a red object in its mouth .",
+   "A white dog swims through the water with a red toy .",
+   "a yellow dog swimming in the water with something red in his mouth"
+  ],
+  "model_a": "a dog swims in the water",
+  "model_b": "two dogs are playing in the water"
+ },
+ {
+  "image": "3638459638_ec74e3ff89.jpg",
+  "references": [
+   "A person is being swept to the ground by waves .",
+   "A person wipes out in the water .",
+   "A wave in the ocean crashes over a woman .",
+   "A woman has been knocked down by strong waves in the ocean",
+   "Someone with a wave rolling over them ."
+  ],
+  "model_a": "a surfer is surfing through the water",
+  "model_b": "a man is <unk> a wave"
+ },
+ {
+  "image": "2456907314_49bc4591c4.jpg",
+  "references": [
+   "A man is docking a boat",
+   "A man is using a long pole to push two boats apart .",
+   "A man on a boat is using a large stick to push another boat away .",
+   "A man on a fishing boat pushing a wooden pole into the water .",
+   "A man standing on a boat is pulling another boat close by with a bamboo stick ."
+  ],
+  "model_a": "a man is standing on a dock on a lake",
+  "model_b": "a man is standing on a boat on a lake"
+ },
+ {
+  "image": "3293596075_973b0bfd08.jpg",
+  "references": [
+   "A black and brown dog walking in deep snow .",
+   "A black dog runs down a snowy hill with his legs deep in the snow .",
+   "A dog shoulder-deep in snow .",
+   "A dog up to its belly in the snow attempts to move .",
+   "The dog runs in the deep snow ."
+  ],
+  "model_a": "a dog is running through the snow",
+  "model_b": "a dog is walking through the snow"
+ },
+ {
+  "image": "947969010_f1ea572e89.jpg",
+  "references": [
+   "A black dog with a brown muzzle next to a body of water , shaking off water with a stick in its mouth .",
+   "A black dog with a red collar has an item in his mouth and is climbing out of a pool .",
+   "A brown dog climbing out of a pool with a stick in his mouth .",
+   "A dog with a stick in its mouth climbs out of the water .",
+   "The dog is climbing out of the water with a stick ."
+  ],
+  "model_a": "a dog is <unk> through the water",
+  "model_b": "a black dog is <unk> in the water"
+ },
+ {
+  "image": "2355578735_286af5b202.jpg",
+  "references": [
+   "A boy in a fuzzy goat holds a craw and looks at it .",
+   "A boy in a grey coat holds a sea creature .",
+   "A boy looks at the crab he is holding .",
+   "A boy wearing a hooded jacket holds a crab .",
+   "A child wearing a gray sweater holds a crab and looks at it ."
+  ],
+  "model_a": "a woman is holding a <unk> <unk>",
+  "model_b": "a woman in a pink shirt is holding a baby"
+ },
+ {
+  "image": "2946016853_ceca4f5a07.jpg",
+  "references": [
+   "A dog rounds a corner with his tail up , after exiting a yellow and orange tube .",
+   "a husky dog running through a yellow tunnel at an obstacle course .",
+   "A large white and grey dog runs through a yellow tunnel in an obstacle course .",
+   "A white and black dog is running out of a yellow and orange tube .",
+   "A white and black dog rushes out of an orange tunnel ."
+  ],
+  "model_a": "a black and white dog is running on a green <unk>",
+  "model_b": "a dog is jumping over a yellow <unk>"
+ },
+ {
+  "image": "2199083344_3aa77f4879.jpg",
+  "references": [
+   "A girl in a blue jacket holding a pink bottle in the front of a crowd of other kids .",
+   "A girl in a blue jacket stands in front of a drab crowd while they watch something .",
+   "Girl with blue jacket holding purple jug in crowd",
+   "Teen girl in foreround with crowd faded out in background",
+   "The girl in the blue coat is holding a purple capped water bottle ."
+  ],
+  "model_a": "a woman and a woman in a pink jacket",
+  "model_b": "a woman in a red shirt and a <unk> shirt is standing on a <unk>"
+ },
+ {
+  "image": "2906054175_e33af79522.jpg",
+  "references": [
+   "A group of men hold a drum over their heads with a man standing on it .",
+   "A man wearing no shirt begins to jump from a drum into a crowd of others .",
+   "Man without shirt standing on top of a drum that people are holding in the air .",
+   "One musician is standing on a musical drum which has been lifted in the air by a few people at the concert and another musician is playing another musical instrument .",
+   "The long haired man is balancing on a drum that is being carried by men in white shirts ."
+  ],
+  "model_a": "a group of people are sitting in a <unk>",
+  "model_b": "a man is sitting in a <unk> <unk>"
+ },
+ {
+  "image": "1439282131_3814d6ae04.jpg",
+  "references": [
+   "The two dogs are in the water retrieving a stick .",
+   "Two dogs are holding the same stick in their mouths while in the water .",
+   "Two dogs in the surf holding on to the same stick .",
+   "Two dogs in the water fighting over a stick .",
+   "Two dogs swimming with a stick ."
+  ],
+  "model_a": "a dog swims in the water",
+  "model_b": "a dog is running through the water"
+ },
+ {
+  "image": "323657582_b6b6d8f7bd.jpg",
+  "references": [
+   "A black and white dog carries a huge stick on the green grass .",
+   "A black and white dog is running in grass carring a big stick .",
+   "a dog carries a large stick through the field .",
+   "A dog with a large stick runs across the grass .",
+   "There is a black and white dog with a large branch running in the field ."
+  ],
+  "model_a": "a dog is running through the grass",
+  "model_b": "a dog is running through a field"
+ },
+ {
+  "image": "3415311628_c220a65762.jpg",
+  "references": [
+   "A man and a boy ride a go kart",
+   "A man helps a boy steer a go-cart .",
+   "An old man drives a go cart with a little boy .",
+   "Man and child riding in go cart .",
+   "Old man teaching little kid to drive ."
+  ],
+  "model_a": "a young boy in a red shirt is sitting on a swing",
+  "model_b": "a man in a <unk> <unk> <unk>"
+ },
+ {
+  "image": "211295363_49010ca38d.jpg",
+  "references": [
+   "A few boats ride in the water in front of a city skyline .",
+   "A large boat drives through the harbor .",
+   "A white boat is cruising near a large city backdrop .",
+   "Small yachts in harbor , city in background .",
+   "There is a white boat in the bay with a city in the background ."
+  ],
+  "model_a": "a man is <unk> on a lake",
+  "model_b": "a man is standing on a <unk>"
+ },
+ {
+  "image": "2813784259_d201044d71.jpg",
+  "references": [
+   "A boy wearing a white headband is kicking a soccer ball down the field .",
+   "A player kicks the soccer ball from the corner of the field .",
+   "A soccer game is going on at sundown .",
+   "A soccer player is kicking a soccer ball .",
+   "At dusk , a soccer player kicks the ball off the sidelines ."
+  ],
+  "model_a": "a man and a man in a field",
+  "model_b": "a man in a white shirt and white shorts is running through the grass"
+ },
+ {
+  "image": "3498482871_4e02f31c35.jpg",
+  "references": [
+   "an african man is being dragged though wet mud by two cows whilst other people watch .",
+   "Two bulls pulling a muddy man behind them while mud droplets spray .",
+   "Two oxen are pulling a person through splashing dirt and mud .",
+   "Two oxen pulling a man through the muddy water .",
+   "Two oxen running through the lake leave man behind them covered in mud ."
+  ],
+  "model_a": "a <unk> <unk> <unk> <unk> <unk> <unk>",
+  "model_b": "a <unk> <unk> <unk> a <unk>"
+ },
+ {
+  "image": "1499554025_a8ffe0e479.jpg",
+  "references": [
+   "A group of females in white suits are in a petting zoo with two goats .",
+   "A group of people in white stand with white goats .",
+   "People dressed in all white are looking at some shaved lambs .",
+   "The people have some animals with them .",
+   "Two light-colored female goats in an indoor arena with handlers dressed in white ."
+  ],
+  "model_a": "two dogs are playing on a golf",
+  "model_b": "a white dog is running in the air on a <unk>"
+ },
+ {
+  "image": "3648988742_888a16f600.jpg",
+  "references": [
+   "A girl holding a camera .",
+   "A little girl in a pink , floppy hat takes a photograph with a big camera .",
+   "A little girl in a pink hat holds a camera to her face .",
+   "a young girl wearing a pink hat holding a camera up to her face .",
+   "Young girl in pink hat taking pictures ."
+  ],
+  "model_a": "a woman in a pink hat is walking on a <unk>",
+  "model_b": "a girl in a green dress and a black hat and a white hat"
+ },
+ {
+  "image": "3441511444_b031585b45.jpg",
+  "references": [
+   "A man in uniform presents paperwork to another for his signature .",
+   "A man wearing a tan coat signs papers for another man wearing a blue coat .",
+   "Two men are holding papers , while one of them writes something .",
+   "Two men getting a document signed",
+   "Two men with heads down signing a paper ."
+  ],
+  "model_a": "a man in a red jacket is holding a <unk>",
+  "model_b": "a man in a black jacket is holding a <unk>"
+ },
+ {
+  "image": "2300168895_a9b83e16fc.jpg",
+  "references": [
+   "A brown dog laying in the grass with a white chew toy .",
+   "A brown dog lying in the grass playing with a white rag .",
+   "A brown dog sitting on grass",
+   "A dog sitting on grass .",
+   "Orange dog with knotted white rag on grass ."
+  ],
+  "model_a": "a brown dog is running through the grass",
+  "model_b": "a brown dog is running through the grass"
+ },
+ {
+  "image": "616045808_0286d0574b.jpg",
+  "references": [
+   "A person in a dress and a pink feathered hat rides a unicycle in a parade .",
+   "A person is riding a unicycle on the street with many other people around .",
+   "a person wearing a black and pink outfit and hat riding atop a unicycle down the street .",
+   "A woman wearing black and pink and large , feathered hat rides a bike in a parade .",
+   "A woman in a black dress and hat rides a unicycle in front of a crowd ."
+  ],
+  "model_a": "a man wearing a black and white hat and a woman in a pink hat and a <unk> <unk>",
+  "model_b": "a girl in a red shirt and white hat is running on a street"
+ },
+ {
+  "image": "3355756569_b430a29c2a.jpg",
+  "references": [
+   "A bike rider in the air with the sky as background .",
+   "A boy jumps on his bike .",
+   "A kid riding a bike jumps up and does a trick in midair .",
+   "A stunt biker leaps into the air beside the setting sun .",
+   "The person is doing a trick on a bike at dusk ."
+  ],
+  "model_a": "a man is performing a trick on a mountain",
+  "model_b": "a man is performing a trick on a bicycle"
+ },
+ {
+  "image": "3029472296_d429b1586c.jpg",
+  "references": [
+   "Two guys running along a wall .",
+   "Two men holding their arms out from their bodies .",
+   "Two men in red shirts appear to be walking on the exterior walls of a decorative building .",
+   "Two men in red shirts walking on the walls of a white building .",
+   "Two men wearing dark pants and red shirts are leaping in-synch in front of a white building ."
+  ],
+  "model_a": "a man is standing on a concrete wall",
+  "model_b": "a man in a white shirt and a white shirt is standing on a <unk>"
+ },
+ {
+  "image": "3467843559_a457ce37b6.jpg",
+  "references": [
+   "A group of boys sits near the sidewalk and two are smiling while one makes a face .",
+   "Three boys are posing for a picture , one of them making a silly face .",
+   "Three boys pose on sidewalk , one boy holding a camera .",
+   "Three young boys one is holding a camera and another is holding a green toy all are wearing tee shirts and smiling .",
+   "Three young boys playing outside and posing for a picture"
+  ],
+  "model_a": "two children are sitting on the ground",
+  "model_b": "a young boy in a pink shirt and a child with a <unk> <unk>"
+ },
+ {
+  "image": "3041487045_b48ac7ed08.jpg",
+  "references": [
+   "A dog runs through the woods .",
+   "A pale tan dog romps through a wooded area",
+   "A tan dog is carrying a small object in its mouth .",
+   "a tan dog running",
+   "A yellow dog is trotting through the leaves ."
+  ],
+  "model_a": "a brown dog is running through the grass",
+  "model_b": "a brown dog is running through the grass"
+ },
+ {
+  "image": "388386075_9ac3a89ada.jpg",
+  "references": [
+   "a boy plays with a train set .",
+   "A boy takes off his glasses while playing with his toy trains .",
+   "A little boy is playing with some trains .",
+   "a small child wearing a blue shirt playing with his glasses .",
+   "A young boy pulling down his eye glasses and looking a toy trains"
+  ],
+  "model_a": "a man is sitting on a bench",
+  "model_b": "a man in a black shirt is jumping up a ramp"
+ },
+ {
+  "image": "2596474836_79468f23a0.jpg",
+  "references": [
+   "A woman helping a toddler to swim in a pool .",
+   "A woman in a white swim cap teaches a toddler how to swim in a swimming pool .",
+   "A woman is holding a boy in a swimming pool .",
+   "A woman wearing a white swim holds a small boy in the swimming pool .",
+   "Woman teaching young boy how to swim ."
+  ],
+  "model_a": "a young boy in a swimming pool in a pool",
+  "model_b": "a young girl in a swimming pool with a <unk> <unk> <unk>"
+ },
+ {
+  "image": "480200554_6155e9dfeb.jpg",
+  "references": [
+   "An elderly man wearing a sombrero riding a mobility scooter while shopping for shoes .",
+   "An old man on a cart shopping for shoes",
+   "An old man wearing a large hat , and riding in a motorized wheelchair , is picking out shoes at a store .",
+   "Man on electric scooter looking at shelves of shoes .",
+   "Senior citizen shops for shoes with a sombrero on his head ."
+  ],
+  "model_a": "a man in a red hat is holding a <unk> <unk>",
+  "model_b": "a woman in a <unk> <unk> is holding a <unk>"
+ },
+ {
+  "image": "3343900764_2a4c0405f9.jpg",
+  "references": [
+   "A basketball player attempting to control the ball near the basket rim .",
+   "A basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team .",
+   "A basketball player is scoring a basket .",
+   "Two men jump up for the ball near the hoop in a basketball game .",
+   "two teams playing basketball on a court in a stadium ."
+  ],
+  "model_a": "a basketball player in a white uniform is trying to block the <unk>",
+  "model_b": "a man in a red uniform is holding a basketball player in a basketball"
+ },
+ {
+  "image": "2364394224_c17b09e035.jpg",
+  "references": [
+   "A dog runs for a ball thrown by a small boy .",
+   "A little boy is playing with his dog in the backyard as the snow melts .",
+   "A young child is walking alongside a large black and brown dog with snow on the ground .",
+   "Little boy and a dog are playing in a fenced in backyard with snow on the ground .",
+   "The boy and the dog are outside in the garden with a little snow still on the ground ."
+  ],
+  "model_a": "a dog is <unk> by a large brown dog",
+  "model_b": "a dog is <unk> a <unk> dog"
+ },
+ {
+  "image": "3202360797_2084743e90.jpg",
+  "references": [
+   "A dog is walking in a tire track in the snow .",
+   "a golden dog is running along a tire track that has been carved out in the snow .",
+   "A young dog walking through the snow in a tire track .",
+   "Golden retriever puppy walking through snow .",
+   "The dog is walking in the snow ."
+  ],
+  "model_a": "a dog in the snow",
+  "model_b": "a dog is running through the snow"
+ },
+ {
+  "image": "446286714_dcec7f339e.jpg",
+  "references": [
+   "An elderly man is sitting on a bench .",
+   "An older man wearing a brown coat siting on a bench .",
+   "An old man in a coat and hat sitting on a park bench .",
+   "Old man in tan jacket and black cap sitting on bench",
+   "The older man with the shopping bag and cane is sitting on a bench ."
+  ],
+  "model_a": "a man in a white jacket is sitting on a bench",
+  "model_b": "a woman in a pink shirt is walking on a park"
+ },
+ {
+  "image": "587604325_af5d6df679.jpg",
+  "references": [
+   "A curly haired dog tries to bite another dog wearing a green and orange collar .",
+   "One brown dog is bearing its teeth at another brown dog with a green collar in a park .",
+   "Two brown dogs playing .",
+   "Two dogs , one with its mouth open .",
+   "Two golden dogs playing with one another"
+  ],
+  "model_a": "a brown dog is running through the grass",
+  "model_b": "two dogs run in the grass"
+ },
+ {
+  "image": "2718027742_70a72f99ae.jpg",
+  "references": [
+   "A child in a bathing suit plays in a sprinkler .",
+   "A child plays in backyard sprinklers .",
+   "A child seen from the waist down in a bathing suit standing on a slip and slide with jets of water shooting up",
+   "A kid standing in a sprinkler .",
+   "Child standing on yellow sprinkler mat with water spraying ."
+  ],
+  "model_a": "a young girl in a bathing suit is running through the water",
+  "model_b": "a girl in a red shirt is running through a water"
+ },
+ {
+  "image": "2921793132_ef19f1dd44.jpg",
+  "references": [
+   "A team of girl soccer players are running down the field chasing the ball .",
+   "A team of girl 's soccer players in red uniforms run for the ball .",
+   "Girls run for the soccer ball during a game .",
+   "Kids playing soccer .",
+   "Young girls playing soccer ."
+  ],
+  "model_a": "four children are playing soccer",
+  "model_b": "three children are playing soccer"
+ },
+ {
+  "image": "1067790824_f3cc97239b.jpg",
+  "references": [
+   "A white and black dog and a brown dog in sandy terrain .",
+   "A woolly dog chases a Doberman on a beach .",
+   "One dog is chasing another one on the beach .",
+   "The two large dogs are running through sand .",
+   "Two large dogs chasing each other at the beach ."
+  ],
+  "model_a": "two dogs are playing in the sand",
+  "model_b": "two dogs are playing in the water"
+ },
+ {
+  "image": "3639428663_dae5e8146e.jpg",
+  "references": [
+   "A man in a straw hat and overalls is with a friend outdoors .",
+   "A man with overalls and a hat standing next to another man .",
+   "Man in hat and overalls with no shirt standing with man in striped shirt",
+   "The man in the striped shirt and the man in the hat are posing for the camera .",
+   "Two men posing for the camera , one in overalls , nearby a crowd of people ."
+  ],
+  "model_a": "a man in a hat is holding a <unk> <unk>",
+  "model_b": "a man in a hat hat with a man in a hat"
+ },
+ {
+  "image": "3215847501_c723905ba4.jpg",
+  "references": [
+   "A group of climbers in silhouette stare towards the sun over the mountaintops .",
+   "A group of hikers looks at the tops of mountains .",
+   "a group of people standing on a hill with the sun in the distance .",
+   "Eight people are standing on a hill above the clouds .",
+   "Several people are standing on a ledge overlooking snowy mountains ."
+  ],
+  "model_a": "a group of people are standing on the beach",
+  "model_b": "people are standing on a <unk>"
+ },
+ {
+  "image": "3349308309_92cff519f3.jpg",
+  "references": [
+   "Two girls are riding camels while another girl looks at them .",
+   "Two girls on camels",
+   "Two people each riding a camel with one person with back to camera in front .",
+   "Two women ride camels , while a third watches .",
+   "Two young girls are riding beige camels as another lady wearing a purse watches ."
+  ],
+  "model_a": "two men are playing on the beach",
+  "model_b": "two dogs are running on the beach"
+ },
+ {
+  "image": "3082474922_9c3533eaf6.jpg",
+  "references": [
+   "A boy is pushing a sledge through the snow at night .",
+   "A boy with a red hat pushing a snowploe through the snow",
+   "A small child wearing a red winter cap and a blue and black snowsuit pushing a plow through snow .",
+   "A young child plows snow manually .",
+   "Boy wearing red hat , blue jacket pushing plow in snow ."
+  ],
+  "model_a": "a man in a red jacket is skiing down a snowy hill",
+  "model_b": "a person is skiing down a snowy hill"
+ },
+ {
+  "image": "3016708786_3591106cca.jpg",
+  "references": [
+   "A group of young men wrestle with each other wielding a floppy toy sword .",
+   "Teenagers are playing with a toy sword .",
+   "The three people are playing around with a fake knife .",
+   "Three men with mouths open and one is holding a fake sword",
+   "Two young men pretend to attack a third man with a colorful prop knife ."
+  ],
+  "model_a": "a man and a woman in a red shirt and a red shirt is sitting on a <unk>",
+  "model_b": "a man and a woman with a <unk> and white shirt is holding a <unk>"
+ },
+ {
+  "image": "47870024_73a4481f7d.jpg",
+  "references": [
+   "A boy in yellow is riding a scooter on the street .",
+   "A boy on a scooter .",
+   "A boy wearing a helmet rides a scooter in a suburban neighborhood .",
+   "A child on a scooter is jumping the curb .",
+   "a young boy wearing an orange helmet riding a scooter"
+  ],
+  "model_a": "a man is performing a jump on a ramp",
+  "model_b": "a man is doing a trick on a ramp"
+ },
+ {
+  "image": "2906802485_dfebf09173.jpg",
+  "references": [
+   "Four kayakers and canoers near a rock wall .",
+   "Four kayakers on a moutain stream .",
+   "four kayakers paddle through the water .",
+   "Four people are kayaking in a river .",
+   "Four people , in colorful kayaks , are on the water on a sunny day ."
+  ],
+  "model_a": "a group of people are standing on a lake",
+  "model_b": "a man in a <unk> <unk> a <unk>"
+ },
+ {
+  "image": "3451345621_fe470d4cf8.jpg",
+  "references": [
+   "A man holding a political sign .",
+   "A man in jeans & a cowboy hat holds up a sign .",
+   "a man wearing a cowboy hat holding a protest sign .",
+   "A man with a cowboy hat and an anti-tax sign .",
+   "A protester in a cowboy gear holds up a sign that says , \" Dont tax me bro! \""
+  ],
+  "model_a": "two men standing on a bench with a <unk>",
+  "model_b": "a man in a hat is holding a <unk> hat on a <unk>"
+ },
+ {
+  "image": "3461106572_920c8c0112.jpg",
+  "references": [
+   "A group of 5 people standing wearing name badges",
+   "A group of people posing in a concert area .",
+   "five people are standing in front of an industrial style building posing for a photograph .",
+   "Five people pose for a picture in a gym .",
+   "Five people wear name tags on a necklace and pose together ."
+  ],
+  "model_a": "three people are standing in front of a <unk>",
+  "model_b": "two men are standing in front of a <unk>"
+ },
+ {
+  "image": "3314180199_2121e80368.jpg",
+  "references": [
+   "A boy chasing a yellow ball .",
+   "A child in a red and black striped shirt plays with a yellow ball on a wooden deck .",
+   "A little boy in a red striped shirt about to head a soccer ball .",
+   "A young boy is punching a yellow ball .",
+   "A young boy moving towards a yellow ball ."
+  ],
+  "model_a": "a boy in a red shirt and a red shirt and a ball in a ball",
+  "model_b": "a boy in a red shirt and white uniform is jumping into the air"
+ },
+ {
+  "image": "3473320907_3884a7203b.jpg",
+  "references": [
+   "A group of men play field hockey .",
+   "A player in blue falls on his face during a field hockey match .",
+   "Field hockey players in red and blue with one player taking a fall",
+   "Five males playing field hockey with man in white shirt on blue shorts on the ground .",
+   "The field hockey player takes a digger in a match ."
+  ],
+  "model_a": "a group of children are playing in the grass",
+  "model_b": "a group of people are playing in the grass"
+ },
+ {
+  "image": "3116985493_04b1dc3345.jpg",
+  "references": [
+   "A lady and her daughter jump in a swimming pool .",
+   "A woman and a child play in the water .",
+   "A woman and a girl splashing in water .",
+   "A woman is holding a small girl in the midst of a large wave .",
+   "Mother and daughter play in the waves ."
+  ],
+  "model_a": "a man in a swimming suit is splashing in the water",
+  "model_b": "a man in a bathing suit is standing in the ocean"
+ },
+ {
+  "image": "1015584366_dfcec3c85a.jpg",
+  "references": [
+   "A black dog leaps over a log .",
+   "A grey dog is leaping over a fallen tree .",
+   "A large black dog leaps a fallen log .",
+   "A mottled black and grey dog in a blue collar jumping over a fallen tree .",
+   "The black dog jumped the tree stump ."
+  ],
+  "model_a": "a dog runs through the grass",
+  "model_b": "a dog is jumping over a tree"
+ },
+ {
+  "image": "1718184338_5968d88edb.jpg",
+  "references": [
+   "A couple of people are standing and the person in the red coat is pointing at the body of water .",
+   "The couple are looking downriver .",
+   "Two people in rafting gear standing on a dry , rocky riverbank , pointing at the river .",
+   "Two people stand by a river , one wearing a helmet points .",
+   "Two people stand on the rocks above the water and look at something ."
+  ],
+  "model_a": "two people are standing on the shore of a rocky <unk>",
+  "model_b": "a man in a red shirt is standing on a rock"
+ },
+ {
+  "image": "3351596152_bf283f03d1.jpg",
+  "references": [
+   "A boy doing a skateboard trick",
+   "A skateboarder is balancing on a wall while a group of other boys watch .",
+   "A skateboarder on a ramp , doing a trick .",
+   "The boy is performing a trick on a skateboard .",
+   "The skateboarder in the white shirt balances on the ledge as the others look on in the background ."
+  ],
+  "model_a": "a man in a black shirt is jumping on a skateboard",
+  "model_b": "a man is jumping on a skateboard"
+ },
+ {
+  "image": "2070831523_5035d5537e.jpg",
+  "references": [
+   "A blurry picture of a woman riding a bike .",
+   "A female with a black scarf and a helmet riding her bike .",
+   "A woman rides her bike down the street in the fall .",
+   "The girl is wearing a brown coat and helmet as she rides her bike .",
+   "Woman rides bicycle in autumn wearing brown jacket"
+  ],
+  "model_a": "a woman in a black and white and white dog is riding a <unk>",
+  "model_b": "a woman in a <unk> jacket is walking through the snow"
+ },
+ {
+  "image": "2748435417_ea7bbcc17c.jpg",
+  "references": [
+   "A skateboarder performs a trick in front of a business building .",
+   "Skateboarder on the gray steps on a large building",
+   "Skateboarders do tricks on steps outside of building .",
+   "Two boys are skateboarding in front of an office building .",
+   "Two kids are skateboarding ."
+  ],
+  "model_a": "a man is holding a small boy in a white shirt",
+  "model_b": "a man is sitting on a skateboard"
+ },
+ {
+  "image": "3174726084_c108de0a64.jpg",
+  "references": [
+   "A flag is carried .",
+   "A red , white , black and green flag .",
+   "The flag of a country is being held in a crowd",
+   "There is a hand in front of a red , green , white , and black flag .",
+   "There is a picture of a green , white , black , and red flag ."
+  ],
+  "model_a": "a young boy in a green dress is holding a <unk>",
+  "model_b": "a man is holding a <unk> <unk>"
+ },
+ {
+  "image": "637342973_89f6fac1f7.jpg",
+  "references": [
+   "A pink ball is being held up before three dogs on a beach .",
+   "Three dogs look as a human holds a pink ball on the beach .",
+   "three dogs on a beach looking at a red ball in someones hand",
+   "Three dogs stare at a red ball at the beach .",
+   "Three dogs stare curiously at a chewed up toy"
+  ],
+  "model_a": "two dogs are playing in the grass",
+  "model_b": "a black dog is running in the grass"
+ },
+ {
+  "image": "315125146_d9a8e60061.jpg",
+  "references": [
+   "A black and white dog bits the jacket of a person .",
+   "A dog pulls at the sleeve of a man in a leather coat .",
+   "A dog with a sleeve in its mouth of a coat a man is wearing .",
+   "Brown and white dog biting man 's leather jacket .",
+   "The dog has jumped up and is pulling at the man 's leather jacket with its mouth ."
+  ],
+  "model_a": "a dog is sitting on a <unk>",
+  "model_b": "a dog is standing on a <unk>"
+ },
+ {
+  "image": "345284642_77dded0907.jpg",
+  "references": [
+   "A black dog is moving through a snowy field with an object in their mouth .",
+   "A black dog is running through a snow covered area while holding something green in his mouth .",
+   "A black dog with a stuffed animal in its mouth is running and jumping through a snowy field .",
+   "A brown dog holding an object in its mouth is moving through snow-covered tall grass outdoors .",
+   "A dog carreis an object through the snowy grass ."
+  ],
+  "model_a": "a dog is <unk> a red rope",
+  "model_b": "a black dog is running through the water"
+ },
+ {
+  "image": "2101128963_fdf8b2a0d7.jpg",
+  "references": [
+   "A baseball is recoiling from an action taken on a treated field watched by others .",
+   "A baseball player on a playing field springs into action .",
+   "A baseball player standing on the mound .",
+   "A Philadelphia Phillie pitcher on the pitchers mound with his left leg up behind him .",
+   "A pitcher in a red and white uniform in a baseball game has just thrown the ball ."
+  ],
+  "model_a": "a man in a baseball player is <unk> a baseball",
+  "model_b": "a man in a red shirt is running on a baseball field"
+ },
+ {
+  "image": "2395967330_7e6ea404f6.jpg",
+  "references": [
+   "A child playing on a red scooter .",
+   "A toddler is riding a plastic scooter .",
+   "A toddler on a plastic scooter toy .",
+   "A young child is riding a 3 wheeled scooter down the sidewalk .",
+   "A young child on a three-wheeled scooter ."
+  ],
+  "model_a": "a little boy in a red shirt is sitting on a <unk>",
+  "model_b": "a little boy in a red shirt is walking on a <unk>"
+ },
+ {
+  "image": "1347519824_e402241e4f.jpg",
+  "references": [
+   "A few girls with green foam statue of liberty hats on a train",
+   "Some young adults are wearing green foam statute of liberty crowns .",
+   "Some young people take photos of each other while in New York .",
+   "Three woman with statue of liberty hats and taking a picture .",
+   "Two woman wearing statue of liberty hats get their picture taken in a subway ."
+  ],
+  "model_a": "a woman in a red shirt is standing in a <unk>",
+  "model_b": "a woman in a pink dress is holding a picture"
+ },
+ {
+  "image": "1798215547_ef7ad95be8.jpg",
+  "references": [
+   "A boy wearing navy blue slides down a gray slide .",
+   "A boy with laying on his stomach with his arms in front of him .",
+   "A child sliding face first down a metal tube",
+   "A little boy in black slides headfirst down a tan tube with his mouth open wide .",
+   "A young boy going headfirst down a slide ."
+  ],
+  "model_a": "a baby in a baby crawls on a <unk>",
+  "model_b": "a young boy in a red shirt is sitting on a <unk>"
+ },
+ {
+  "image": "3036971334_78187a9570.jpg",
+  "references": [
+   "a blond man jumping off a cliff into some water",
+   "A man is jumping off a rock into a pool of water while three others watch .",
+   "Four people are cavorting on the rocks at a river 's edge",
+   "People stand by a rocky cliff with water below .",
+   "Three people on a rocky cliff over a body of water ."
+  ],
+  "model_a": "a group of people are walking on a stream",
+  "model_b": "a group of people are playing in the water"
+ },
+ {
+  "image": "337793983_ac5b2e848e.jpg",
+  "references": [
+   "a couple men sitting outside of a bar",
+   "Men sit and talk at the storefront of a cafe .",
+   "There are two people inside , and two men outside , a cafe ; with a tv on in the background .",
+   "Two men are sitting at a table outside a coffee shop .",
+   "Two men sit outside a cafe painted blue ."
+  ],
+  "model_a": "a group of people are sitting on a bench",
+  "model_b": "a man is sitting on a <unk>"
+ },
+ {
+  "image": "3716277216_c04002be81.jpg",
+  "references": [
+   "Three african american women are dressed in bright orange and brown dresses and head scarves .",
+   "three African women in traditional orange costume are gathered in front of a yellow curtain .",
+   "Three women are dressed in African clothes , and two of them are putting on make-up .",
+   "Three women wearing traditional apparel make the final touches on their clothing .",
+   "Women are putting their robes and headdresses on ."
+  ],
+  "model_a": "a woman in a pink dress is holding a <unk>",
+  "model_b": "two women in <unk> <unk>"
+ },
+ {
+  "image": "2755053974_5cc157512e.jpg",
+  "references": [
+   "A little boy at the steering wheel of a vehicle .",
+   "a small baby sitting in a car behind the steering wheel",
+   "A young boy pretends to drive the car , with his hand on the horn .",
+   "Little boy sits in car 's driver 's seat , grabbing the steering wheel .",
+   "This small child is sitting behind the steering wheel of a car ."
+  ],
+  "model_a": "a young boy in a black shirt is <unk>",
+  "model_b": "a young girl in a pink shirt is holding a <unk>"
+ },
+ {
+  "image": "2861100960_457ceda7fa.jpg",
+  "references": [
+   "A man wearing a straw hat smokes a cigarette .",
+   "A man with a straw hat is smoking a cigarette with a crowd nearby .",
+   "The man in the straw hat is smoking a cigarette .",
+   "The man in the straw hat smokes a cigarette .",
+   "The man is wearing a straw hat and smoking a cigarette ."
+  ],
+  "model_a": "a man in a hat is sitting in a <unk>",
+  "model_b": "a man in a hat is holding a <unk>"
+ },
+ {
+  "image": "3315033940_e91f87b7f2.jpg",
+  "references": [
+   "A speed boat jumps over waves in the water .",
+   "A speedboat rips through the water .",
+   "People in a boat floating above waves .",
+   "Someone is in a speed boat on the water .",
+   "Two people drive a small motor boat on choppy water ."
+  ],
+  "model_a": "a man in a red kayak is standing in the water",
+  "model_b": "a man is <unk> a <unk> on a lake"
+ },
+ {
+  "image": "3095137758_bdd1e613dd.jpg",
+  "references": [
+   "A man dressed as Santa rides in a parade .",
+   "A man dressed like Santa is riding in a carriage during a parade .",
+   "Santa Clause with his white beard and red suit is riding in the carriage .",
+   "Santa Claus leads some type of parade on an odd looking vehicle .",
+   "Santa is pulled in a carriage in a parade ."
+  ],
+  "model_a": "a man in a red jacket and a <unk> <unk> is riding a <unk>",
+  "model_b": "a man in a red shirt and a <unk> <unk> is riding a <unk>"
+ },
+ {
+  "image": "265223847_636ba039c1.jpg",
+  "references": [
+   "A fan operated vehicle with a yellow parachute is landing .",
+   "A flying machine with a yellow sail is landing with industrial buildings in the background .",
+   "A man in the air in a four-wheeled cart attached to a parachute with smokestacks on the sun-setting horizon .",
+   "Man parasails at night",
+   "Person landing a yellow hanglider ."
+  ],
+  "model_a": "a <unk> <unk> in the air",
+  "model_b": "a <unk> <unk> <unk> a <unk> <unk> <unk> a <unk> <unk> <unk> <unk> <unk>"
+ },
+ {
+  "image": "3404552106_f516df0f5b.jpg",
+  "references": [
+   "a group of asian girls dressed in pink and purple posing in a straight line",
+   "Asian girls line up near some flags .",
+   "Several women in pastel colors stand in line , one holding a child on her shoulders .",
+   "Six Asian women dressed in pastels pose for a picture .",
+   "There are five women in pink and purple and one has a child on her shoulders ."
+  ],
+  "model_a": "three girls in a white dress and a <unk> <unk>",
+  "model_b": "a group of women in a pink dress and a pink dress is standing on a <unk>"
+ },
+ {
+  "image": "3667404919_b273df57e4.jpg",
+  "references": [
+   "A dirt biker rounding a bend on a downhill course .",
+   "A man in a white uniform rides a motocross bike down a forest trail .",
+   "A person on a bike and wearing a helmet rides through a wooded area .",
+   "BMX rider , riding downhill on forest path .",
+   "The motorbiker is biking on an off road trail"
+  ],
+  "model_a": "a person in a red helmet is riding a dirt bike",
+  "model_b": "a person rides a dirt bike"
+ },
+ {
+  "image": "3531811969_49af4c22f0.jpg",
+  "references": [
+   "A bike rider performs a trick .",
+   "A bmx biker is currently in midair doing a front flip .",
+   "A man upside down while jumping a bicycle .",
+   "A person is flipping on a trick bike .",
+   "The young man is performing a summersault in the air with a bicycle ."
+  ],
+  "model_a": "a man is performing a trick on a bicycle",
+  "model_b": "a man is performing a bicycle on a bicycle"
+ },
+ {
+  "image": "1476002408_4256b7b2fa.jpg",
+  "references": [
+   "a lone person wearing a quilt walking along the sidewalk of a street",
+   "A person in a kilt walks along an overpass .",
+   "a person walks near a fence .",
+   "A woman wearing a backpack walks on the sidewalk while a car drives by .",
+   "A woman wearing a brown skirt is walking over a bridge ."
+  ],
+  "model_a": "a woman in a black jacket is walking down a street",
+  "model_b": "a woman in a red jacket and a black jacket and a black jacket and a black jacket and a black jacket and a <unk> <unk>"
+ },
+ {
+  "image": "2887798667_ce761d45e8.jpg",
+  "references": [
+   "A guy doing a wallride on his bike",
+   "A person in a hooded sweatshirt is doing a bicycle trick off of a wall .",
+   "A person in grey is riding a bike on a brick wall .",
+   "a young person riding a bike on the side of a brick wall",
+   "A youth on a bicycle wearing a white sweater riding along a wall ."
+  ],
+  "model_a": "a man is performing a trick on a <unk>",
+  "model_b": "a man is performing a trick in front of a <unk>"
+ },
+ {
+  "image": "3514184232_b336414040.jpg",
+  "references": [
+   "A baseball player is making a play nearby a large sign and boundary of the field .",
+   "a girl catches a baseball .",
+   "A ponytailed girl in a softball uniform raises her mitt in the air .",
+   "A woman playing softball , running to catch the ball .",
+   "A woman with long hair is catching a softball in a softball field ."
+  ],
+  "model_a": "a man in a blue shirt is jumping off a ramp",
+  "model_b": "a man is running through a field"
+ },
+ {
+  "image": "2682194299_92005b26c6.jpg",
+  "references": [
+   "A black and white dog is bounding down white steps .",
+   "A black and white dog is running down some white steps .",
+   "A small dog jumping some hurdles .",
+   "A tri-colored dog is jumping over obstacles .",
+   "Dog sits on hurdles ."
+  ],
+  "model_a": "a dog is running through a <unk>",
+  "model_b": "a dog is jumping over a red and white <unk>"
+ },
+ {
+  "image": "2599444370_9e40103027.jpg",
+  "references": [
+   "A black dog paddles behind a black cat in a body of water .",
+   "A dog and a cat are swimming in a swimming pool .",
+   "Two black dogs are dog paddling in a sparkling blue pool .",
+   "Two black dogs are swimming in a pool .",
+   "Two dogs swimming in a pool ."
+  ],
+  "model_a": "a black dog is playing in the water",
+  "model_b": "a dog is running through the water"
+ },
+ {
+  "image": "2839038702_e168128665.jpg",
+  "references": [
+   "a black and white dog with a stick in his mouth standing on a hill .",
+   "A dog is playing catch on the grassy plain",
+   "A dog stands at the top of a mountain and looks on .",
+   "A dog stands on a hill looking towards the valley with a stick in its mouth .",
+   "brown dog holding stick in mouth"
+  ],
+  "model_a": "a dog is jumping on a field",
+  "model_b": "a dog is standing on a <unk> with a <unk> <unk>"
+ },
+ {
+  "image": "299572828_4b38b80d16.jpg",
+  "references": [
+   "A closeup of a man that is rock climbing .",
+   "A man cuts down a tree with an ax .",
+   "A man in a plaid shirt uses a tool by a tree .",
+   "A man in plaid shirt hits a tree with an Axe .",
+   "A man is scratching a rock with a red hammer ."
+  ],
+  "model_a": "a man in a blue shirt is standing on a rock",
+  "model_b": "a man in a pink shirt and a woman is sitting on a rock wall"
+ },
+ {
+  "image": "2732625904_4fbb653434.jpg",
+  "references": [
+   "A girl in a pink dress rides her bike along a white picket fence .",
+   "A girl in a pink sundress rides a bike next to a white picket fence .",
+   "A girl in a red dress rides her bike in front of a white fence .",
+   "A girl in a red sundress rides a bike past a white picket fence .",
+   "A girl wearing pink rides a yellow bike near a white fence ."
+  ],
+  "model_a": "a man and a girl in a blue shirt and white and white and white and white and white and white and white and white <unk>",
+  "model_b": "a woman in a pink shirt and blue shirt is riding a bike on a <unk>"
+ },
+ {
+  "image": "2751602672_ca5e1f6447.jpg",
+  "references": [
+   "A bald man demonstarting how high his brown and black dog can jump .",
+   "a bald man in grey is holding out a stick whilst a black and brown dog jumps up to catch it .",
+   "A man holds a stick above a jumping dog .",
+   "A medium sized dog is jumping to get a stick .",
+   "Man holding a stick while a dog jumps up to grab it"
+  ],
+  "model_a": "a young girl in a blue shirt is jumping in the air",
+  "model_b": "a dog is running through the grass"
+ },
+ {
+  "image": "265528702_8653eab9fa.jpg",
+  "references": [
+   "A man in sunglasses and a neatly trimmed beard overlooks a woody valley .",
+   "a man posing with large grassy mountains off in the distance .",
+   "A man wearing sunglasses stands before a forested landscape .",
+   "A man with a beard and sunglasses is standing in front of tree-covered hills .",
+   "Bearded man with sunglasses in the mountains ."
+  ],
+  "model_a": "a man and a woman in a blue shirt and a blue jacket",
+  "model_b": "a man in a <unk> jacket is standing on a <unk>"
+ },
+ {
+  "image": "472535997_0dbf42b9f3.jpg",
+  "references": [
+   "two african toddlers dressed in pink are playing in a sparsely decorated kitchen .",
+   "Two girls in pink dresses dance and clap .",
+   "Two little girls in pink are dancing .",
+   "Two little girls wearing pink outfits dance together .",
+   "Two very young girls in pink dance inside ."
+  ],
+  "model_a": "a girl in a pink dress and a pink dress is standing on a couch",
+  "model_b": "a little girl in a pink dress is holding a <unk>"
+ },
+ {
+  "image": "2373234213_4ebe9c4ee5.jpg",
+  "references": [
+   "A boy jumping over another boy on a trampoline .",
+   "A boy jumps over another boy on a trampoline .",
+   "One boy jumps over another boy on a trampoline .",
+   "The little boy jumps over another little boy on the trampoline .",
+   "Two boys jumping on a trampoline ."
+  ],
+  "model_a": "a boy in a blue shirt is jumping on a trampoline",
+  "model_b": "a young boy is jumping on a skateboard"
+ },
+ {
+  "image": "3482314155_bd1e668b4e.jpg",
+  "references": [
+   "A bull is charging a man in an arena .",
+   "A guy is running away from a black bull .",
+   "A man in a bull ring is being charged down by the bull .",
+   "A man running away from a charging bull .",
+   "Man in ring bending backwards with a bull behind him ."
+  ],
+  "model_a": "a group of people are playing on a <unk>",
+  "model_b": "two dogs are playing in the air"
+ },
+ {
+  "image": "3579686259_b1fe6aefc9.jpg",
+  "references": [
+   "A dog walks on a path surrounded by trees .",
+   "a fluffy brown , white and black running on a path",
+   "A fluffy Sheltie is trotting along a path .",
+   "A Sheltie runs through the forest with his tongue out , mouth open .",
+   "A white , black , and brown dog walks down a path in a forested area ."
+  ],
+  "model_a": "a dog is running through the grass",
+  "model_b": "a dog is running through the grass"
+ },
+ {
+  "image": "2431120202_b24fe2333a.jpg",
+  "references": [
+   "A girl cross-country skis .",
+   "A girl on skis in snow .",
+   "A little girl wearing a purple winter coat and sunglasses skiing in the snow .",
+   "Little girl on skis",
+   "The young girl is cross-country skiing ."
+  ],
+  "model_a": "a child in a red jacket is skiing on a snowy hill",
+  "model_b": "a young girl is skiing on a <unk>"
+ },
+ {
+  "image": "3619630328_2d0865b6f4.jpg",
+  "references": [
+   "a brown and white dog jumping over a red , yellow and white pole",
+   "A dog is jumping over a gate .",
+   "A dog jumping over a hurdle .",
+   "A dog jumps over a hurdle .",
+   "Large brown dog jumps over red hurdle"
+  ],
+  "model_a": "a dog is running through a grassy field",
+  "model_b": "a dog is jumping through a <unk> field"
+ },
+ {
+  "image": "2045928594_92510c1c2a.jpg",
+  "references": [
+   "A girl in a red shirt is standing around with her yellow bag and black purse at her side .",
+   "a woman stands near a fountain .",
+   "The lady waits with her purse and bag .",
+   "The woman stands in front of a rock pond and wears a red shirt .",
+   "Woman standing on the street with a shopping bag and a purse ."
+  ],
+  "model_a": "a man in a red shirt is holding a skateboard down a wall",
+  "model_b": "a man in a blue shirt is <unk> a blue <unk>"
+ },
+ {
+  "image": "3018847610_0bf4d7e43d.jpg",
+  "references": [
+   "A man is jumping on another man with a white face and long hair in a wrestling Ring .",
+   "A man performs a wrestling move on the wrestler in the rink .",
+   "A professional wrestler takes a flying leap onto another wrestler .",
+   "A wrestler is falling onto another wrestler who is laying in a ring .",
+   "People are watching the wrestler fall ."
+  ],
+  "model_a": "a man in a red shirt is performing a red shirt",
+  "model_b": "a man in a red shirt is jumping on a <unk>"
+ },
+ {
+  "image": "3234719720_5bb2fc5ffa.jpg",
+  "references": [
+   "A dark haired bearded man in a white dress shirt and black sweater and a woman in a black and white dress in a small space .",
+   "A man and women , both in black and white , are in an elevator .",
+   "A man with a large beard and a woman wearing a white necklace smile .",
+   "A nicely dressed woman and bearded man in a small room .",
+   "A smiling man leaning to his right stands behind a smiling woman leaning to her left ."
+  ],
+  "model_a": "a group of people are sitting on a <unk>",
+  "model_b": "a man is standing on a <unk>"
+ },
+ {
+  "image": "386470686_1ae9242878.jpg",
+  "references": [
+   "A man crouched in the bare branches of a fallen tree .",
+   "A man in a white shirt and khaki pants crouches on a fallen tree trunk .",
+   "A man in tan capris , brown sandals , and a white t-shirt , crouches on the trunk of a tree .",
+   "A man is crouched on top of a horizontal tree .",
+   "A man sitting in the middle of branches on a fallen tree ."
+  ],
+  "model_a": "a man is jumping over a tree",
+  "model_b": "a man is jumping on a rocky wall"
+ },
+ {
+  "image": "3323514651_3efdbd63ed.jpg",
+  "references": [
+   "A basketball player in black jumps , while another in white attempts to block .",
+   "one boy wearing a black jersey holding a basketball while another is behind him trying to get the ball",
+   "Two basketball players fighting over the ball .",
+   "Two male basketball players are fighting over a basketball .",
+   "Two young men play basketball while crowd looks on"
+  ],
+  "model_a": "a basketball player in a white uniform is trying to block the other",
+  "model_b": "a man in a red uniform is holding a basketball"
+ },
+ {
+  "image": "2573141440_28a762d537.jpg",
+  "references": [
+   "A child in a swing .",
+   "A little girl in a yellow outfit sitting in a blue , yellow and red swing .",
+   "A toddler with blue eyes sits in a blue swing with grass in the background .",
+   "Blue-eyed baby in toddler swing .",
+   "The small child is sitting in a red playground swing ."
+  ],
+  "model_a": "a little boy is swinging on a swing",
+  "model_b": "a little boy in a pink shirt is swinging on a swing"
+ },
+ {
+  "image": "3613175012_bcd063e7c9.jpg",
+  "references": [
+   "A group of bohemians stroll down the street , one with a shopping cart .",
+   "A group of four people prance away from the camera , one pushing a shopping cart and another leaping alongside .",
+   "A group of young people walk down a residential street , one pushing a grocery cart .",
+   "Four people walking down the street and one is trying to jump in a shopping cart .",
+   "Four young people walk down a sunny street , one pushing a shopping cart"
+  ],
+  "model_a": "a man in a white shirt and a white shirt and a white shirt and a woman in a white shirt and a white jacket and a white jacket is running through a street",
+  "model_b": "a man in a red shirt and a red helmet and a white helmet is running through a parking lot"
+ },
+ {
+  "image": "2673564214_3a9598804f.jpg",
+  "references": [
+   "A young boy poses behind the netting of an enclosed play area while three other children play .",
+   "Children playing in a green and blue bounce house .",
+   "Children play in the blue and green jumping tent filled with air .",
+   "Four children are playing on a bouncy castle .",
+   "The little kids all play and jump around inside the inflatable toy ."
+  ],
+  "model_a": "a boy is <unk> a <unk> <unk>",
+  "model_b": "a woman is <unk> a <unk> <unk>"
+ },
+ {
+  "image": "2065309381_705b774f51.jpg",
+  "references": [
+   "A man snowboarding down a mountain covered with snow .",
+   "A skier rapidly descending a steep snow covered hill .",
+   "A snowboarder coasting down the side of a snowy hill .",
+   "Snowboarder going down a fresh hill .",
+   "The sun is shining above the snow and trees ."
+  ],
+  "model_a": "two people are standing on a snowy hill",
+  "model_b": "a person is skiing down a snowy mountain"
+ },
+ {
+  "image": "1643915227_9f48068772.jpg",
+  "references": [
+   "A group of people are walking down the sidewalk of a big city .",
+   "Pedestrians and cars make their way through Times Square in New York .",
+   "Some people and vehicles on a crowded street .",
+   "The streets of a big city ,",
+   "Times Square in New York ."
+  ],
+  "model_a": "a group of people are gathered on a street",
+  "model_b": "a <unk> <unk> <unk> <unk>"
+ },
+ {
+  "image": "3423249426_02bedf9260.jpg",
+  "references": [
+   "A group of people standing on a rock path .",
+   "A group of women converse together while overlooking the views of the foliage .",
+   "A woman looks skeptically at the person taking a picture of her and 3 girls who are outdoors .",
+   "Four women stop along a walkway to look at an area beyond the fence .",
+   "Women are outside ."
+  ],
+  "model_a": "a man and a woman is standing on a rock",
+  "model_b": "a group of people are sitting on a rocky path"
+ },
+ {
+  "image": "509778093_21236bb64d.jpg",
+  "references": [
+   "a brown and white dog chasing a ball on some grass .",
+   "a brown and white dog has is playing with a white ball on the grass .",
+   "A collie plays with a white ball in a field of green grass .",
+   "A orange dog playing with a white ball on green grass .",
+   "A small brown dog paws at a white ball"
+  ],
+  "model_a": "a dog runs in the grass",
+  "model_b": "a dog is running in the grass"
+ },
+ {
+  "image": "1235685934_be89b231fb.jpg",
+  "references": [
+   "A man in sunglasses on an overpass .",
+   "A man looking at the camera with another man wearing a mask .",
+   "A man wearing sunglasses is standing next to a person who is wearing a hat and breathing mask .",
+   "The man is wearing a white shirt and sunglasses .",
+   "There are two men with sunglasses , one of which is wearing a hat and a backpack ."
+  ],
+  "model_a": "a man wearing a white shirt is standing on a <unk>",
+  "model_b": "a man in a white shirt and a hat is holding a <unk>"
+ },
+ {
+  "image": "2141065212_463a6997e1.jpg",
+  "references": [
+   "A man wearing a black hat and coat makes a face with a crowd behind him .",
+   "A man wears a NASCAR jacket .",
+   "An elderly man is wearing a black jacket covered in sponsorship logos .",
+   "Older man with glasses wearing a car racing hat and jacket .",
+   "The white haired man in the black baseball cap is wearing a black jacket covered with car racing emblems ."
+  ],
+  "model_a": "a man in a red shirt is holding a <unk>",
+  "model_b": "a man in a red jacket is holding a <unk>"
+ },
+ {
+  "image": "387974450_bcd205daac.jpg",
+  "references": [
+   "A black dog runs along a field where black birds are beginning to fly .",
+   "A dark colored dog running in a field with multilple birds in the background .",
+   "A dog runs at birds taking flight",
+   "A grey dog chases a bunch of crows , a river in the background .",
+   "The dog chases the birds in the field ."
+  ],
+  "model_a": "a black dog is running through the grass",
+  "model_b": "a black dog is running through the air"
+ },
+ {
+  "image": "300314926_0b2e4b64f5.jpg",
+  "references": [
+   "A man gets lots of air time as he wakeboards .",
+   "A man is waterskiing on one ski and jumping out of the water .",
+   "A wakeboarder leaps in the air .",
+   "A waterskier is jumping through the air whilst holding onto the line .",
+   "The man on the board uses the wave to jump high into the air ."
+  ],
+  "model_a": "a man is surfing on a surfboard",
+  "model_b": "a man is surfing into a wave"
+ },
+ {
+  "image": "2178306830_6af49375b4.jpg",
+  "references": [
+   "A person is scuba diving in very clear blue water .",
+   "A person wearing scuba gear is swimming underwater water .",
+   "A S.C.U.B.A. diver swims in deep blue water .",
+   "A scuba diver swims underwater while wearing fins .",
+   "The scuba diver floats underwater looking at the beauty of the sea ."
+  ],
+  "model_a": "a man is performing a <unk> <unk>",
+  "model_b": "a man in a yellow shirt is jumping through the air"
+ },
+ {
+  "image": "3047144646_2252ff8e04.jpg",
+  "references": [
+   "A group of people display ribbons won by their dogs .",
+   "A group of people pose in a grassy field with their dogs .",
+   "Five people are standing with three dogs in the green field beside the road .",
+   "Five people stand in the grass with three dogs .",
+   "Five women and three dogs posing for a picture ."
+  ],
+  "model_a": "a group of people are standing on a grassy field",
+  "model_b": "a group of people are sitting on a large dog"
+ },
+ {
+  "image": "3248352729_ab264b2222.jpg",
+  "references": [
+   "a person riding a snowboard with a pink bottom",
+   "A snowboarder is jumping over a snowy hill",
+   "A snowboarder jumps across a snowy hill .",
+   "A snowboarder with a pink board jumping down a snow covered hill near trees .",
+   "Snowboarder on a pink board flying through the air ."
+  ],
+  "model_a": "a snowboarder is skiing down a snowy hill",
+  "model_b": "a snowboarder is skiing down a snowy hill"
+ },
+ {
+  "image": "3134387321_3a253224c1.jpg",
+  "references": [
+   "A closeup of three people smiling for the camera .",
+   "A girl holds a glass and has a girl on her right and a boy on her left looking into the camera .",
+   "A girl in a black and white headband and pink neck tie holding a glass with friends on either side of her .",
+   "Three people pose for a picture .",
+   "Two women and a man pose for the camera ."
+  ],
+  "model_a": "a man and a woman in a <unk>",
+  "model_b": "a man in a black jacket and a black and white jacket is holding a <unk>"
+ },
+ {
+  "image": "2525455265_f84ba72bd7.jpg",
+  "references": [
+   "A girl in a black shirt is looking to the side while sitting on a wooden bench .",
+   "A girl in a ponytail sitting at the dge of a wooden bench , grass and flowers before her .",
+   "A girl sitting on a bench amongst the grass",
+   "A woman sitting on a bench in a park on a cloudy day",
+   "A young woman sits on a bench ."
+  ],
+  "model_a": "a woman in a white shirt and white shirt and <unk> on a <unk>",
+  "model_b": "a woman is sitting on a grassy field"
+ },
+ {
+  "image": "308956341_642589e9cc.jpg",
+  "references": [
+   "A black dog is shaking off water .",
+   "A black dog shaking off water",
+   "A dog is shaking the water from its fur creating a spray and mist .",
+   "A wet black dog shakes itself off .",
+   "A wet dog is shaking off water ."
+  ],
+  "model_a": "a black dog is <unk> on a <unk>",
+  "model_b": "a black dog is standing on a <unk>"
+ },
+ {
+  "image": "3707990914_843e8f15f1.jpg",
+  "references": [
+   "A girl in pink and yellow on a pink and orange surfboard cuts through the wave .",
+   "a surfer rides the wave .",
+   "A woman in a yellow shirt surfs on a pink surfboard .",
+   "A woman on a surfboard rides a wave",
+   "The girl catches a wave on her pink surfboard ."
+  ],
+  "model_a": "a man in a blue wetsuit is riding a wave in the ocean",
+  "model_b": "a man is riding a <unk> wave"
+ },
+ {
+  "image": "349889354_4b2889a9bd.jpg",
+  "references": [
+   "A person on what appears to be a surfboard , rides the waves onto shore .",
+   "A surfer in the distance is at the base of the wave close to the shore .",
+   "A surfer is caught in an incoming wave along a dirty beach nearby mountains .",
+   "A surfer rides a wave as it crashes on the beach .",
+   "A surfer takes on a high wave beyond a rocky beach ."
+  ],
+  "model_a": "a <unk> <unk> on the beach",
+  "model_b": "a man is standing on the ocean"
+ },
+ {
+  "image": "3463922449_f6040a2931.jpg",
+  "references": [
+   "A brown dog is in an agility contest and running towards a blue tube .",
+   "A dog is running during a competition .",
+   "A dog runs toward a tunnel .",
+   "A golden retriever is competing in a dog competition .",
+   "The brown dog is running towards a blue and yellow tube ."
+  ],
+  "model_a": "a brown dog is running on a grassy field",
+  "model_b": "a brown dog is running through a <unk>"
+ },
+ {
+  "image": "224702241_05af393148.jpg",
+  "references": [
+   "A blond dog walks in a creek with banks filled with snow .",
+   "A blonde dog makes his way up an icy stream with snow piled up on the sides .",
+   "A tan dog walks down a stream between mounds of snow .",
+   "Brown dog walks through river between snowbanks .",
+   "The dog walks through the cold water ."
+  ],
+  "model_a": "a dog is <unk> through a snowy hill",
+  "model_b": "a dog dog <unk> through a snowy hill"
+ },
+ {
+  "image": "3301822808_f2ccff86f4.jpg",
+  "references": [
+   "A cheerleader in a red uniform poses in a parade .",
+   "A dancer posing for the camera in a red and white dress .",
+   "A woman in red and white poses in a parade",
+   "A woman in red and white standing in the middle of the street .",
+   "a young girl wearing a colorful outfit dancing down the street in a performance ."
+  ],
+  "model_a": "a woman in a red jacket and a red jacket and a white jacket and a <unk> and white <unk> and boots",
+  "model_b": "a group of people are standing in a parking lot"
+ },
+ {
+  "image": "2839890871_4b7c7dbd96.jpg",
+  "references": [
+   "Children participate in a martial arts tournament .",
+   "Two boys do martial arts on a blue mat .",
+   "Two children in white outfits and red protective gear spar on a mat .",
+   "Two children wearing martial arts gear fight on a blue mat .",
+   "Two children with red helmets engage in martial arts sparring ."
+  ],
+  "model_a": "a man in a red uniform is <unk>",
+  "model_b": "a <unk> <unk> <unk> <unk> <unk>"
+ },
+ {
+  "image": "2902844125_4186bf3ab6.jpg",
+  "references": [
+   "A boy performs a trick on his skateboard on a rail .",
+   "a skateboarder grinds a red rail .",
+   "A teenage boy grinds across a bar on his skateboard .",
+   "A young man skateboards off a pink railing .",
+   "The boy in the yellow shirt is riding a skateboard along a red bar ."
+  ],
+  "model_a": "a boy is jumping on a skateboard",
+  "model_b": "a boy jumps into"
+ },
+ {
+  "image": "3286406057_a1668655af.jpg",
+  "references": [
+   "Two Asian women in red bottoms , one in a blue top , one in a white top , leaning down over something while the woman in the blue top smiles .",
+   "Two dark haired girls looking down at something",
+   "Two girls looking down at something , one is smiling .",
+   "Two girls with red shirts tied at their waists are laughing while looking down .",
+   "Two teenage girls , one is smiling ."
+  ],
+  "model_a": "a woman in a pink shirt is sitting on a <unk>",
+  "model_b": "a young girl in a pink shirt and a pink shirt is sitting on a <unk>"
+ },
+ {
+  "image": "2194286203_5dc620006a.jpg",
+  "references": [
+   "A little girl and boy play in the sand on the beach .",
+   "A young boy and girl play together in the sand .",
+   "boy and girl make a sand castle",
+   "Two children build a sand castle on the beach .",
+   "two kids building a sand castle"
+  ],
+  "model_a": "a young girl in a blue shirt and a blue shirt and a girl in the sand",
+  "model_b": "two children are playing on a beach"
+ },
+ {
+  "image": "2358561039_e215a8d6cd.jpg",
+  "references": [
+   "a froup of sled dogs pulling a man wearing an orange vest .",
+   "A three dog sled team pulls an unusual tricycle sled .",
+   "Several dogs carry a man with a helmet through snow .",
+   "The dogs are pulling a man on a type of bike , through the snow .",
+   "Three dogs pulling a man on a bicycle through the snow ."
+  ],
+  "model_a": "a group of people are pulling a <unk> <unk>",
+  "model_b": "a man in a <unk> <unk> is <unk> a <unk> of a sled"
+ },
+ {
+  "image": "2923475135_a6b6e13d26.jpg",
+  "references": [
+   "A brown horse with a rider sitting on him is jumping over a blue barrier",
+   "A horse and rider , jumping a barrier on a course .",
+   "A person in white jumps a brown horse over the gate .",
+   "Jockey and horse jump over blue hurdle",
+   "There is a horse and rider jumping over a hurdle ."
+  ],
+  "model_a": "two men are sitting in the air",
+  "model_b": "a man is sitting on a <unk> <unk>"
+ },
+ {
+  "image": "3747543364_bf5b548527.jpg",
+  "references": [
+   "Three girls do back flips and cartwheels in the surf .",
+   "Three girls do handstands at the beach .",
+   "Three girls doing back flips on the beach .",
+   "three little girls cartwheel in the ocean .",
+   "Three young girls playing on the beach ."
+  ],
+  "model_a": "a group of people are playing in the sand",
+  "model_b": "two boys are playing in the water"
+ },
+ {
+  "image": "3495453699_1c9faedf3c.jpg",
+  "references": [
+   "A man poses for a little girl , his arms outstretched , with a large church in the background .",
+   "A man standing on one foot with a little girl in front of a cathedral .",
+   "A man stands on one leg in a playful pose near a lamppost as a young girl looks on .",
+   "The back of a little girl with braids and a man in a ' plane ' pose before her .",
+   "The man is posing in front of a small child near a light post ."
+  ],
+  "model_a": "a man is standing on a bench in front of a <unk>",
+  "model_b": "a man is standing on a <unk> <unk> <unk>"
+ },
+ {
+  "image": "3582742297_1daa29968e.jpg",
+  "references": [
+   "A black dog and two brown and white dogs are romping in the mud .",
+   "The three dogs play in the sand .",
+   "Three dogs are playing in a field .",
+   "Three dogs are playing rough in a sandy field .",
+   "Three dogs chase and wrestle together on a dirt field ."
+  ],
+  "model_a": "a dog runs through the grass",
+  "model_b": "a brown and white dog is running through the air"
+ },
+ {
+  "image": "1424775129_ffea9c13ab.jpg",
+  "references": [
+   "A little boy walking on railroad tracks .",
+   "A little boy walks along railroad tracks in the woods .",
+   "little boy walking with stick on tracks",
+   "The little boy walks along the railroad tracks with his stick .",
+   "There is a little boy in a red jacket walking down the railroad tracks and holding a stick ."
+  ],
+  "model_a": "a man is sitting on a <unk> on a <unk>",
+  "model_b": "two men are walking on a <unk>"
+ },
+ {
+  "image": "3155657768_b83a7831e5.jpg",
+  "references": [
+   "A group of children playing in a yard , a man in the background .",
+   "A group of children play together in a fenced yard as an adult watches .",
+   "Some kids play in a field .",
+   "The children are playing outdoors , while a man smiles nearby .",
+   "The girl in the light pink shirt is playing a game with the other children ."
+  ],
+  "model_a": "two children are playing in the air",
+  "model_b": "a little girl with a pink shirt is sitting on the camera"
+ },
+ {
+  "image": "2307807200_91fa29cba1.jpg",
+  "references": [
+   "An elderly woman is standing by the window of a grey stone building .",
+   "a person standing on the sidewalk , next to a window , wearing warm clothes",
+   "A woman all dressed in blue with blue bags stands outside a window .",
+   "A woman in a fur hat and fur coat stands outside a building .",
+   "The elderly lady waits on the sidewalk ."
+  ],
+  "model_a": "a man in a black jacket is walking down a street",
+  "model_b": "a woman in a blue shirt and white <unk> <unk> a <unk> <unk>"
+ },
+ {
+  "image": "2932519416_11f23b6297.jpg",
+  "references": [
+   "A bicyclist is performing a midair stunt .",
+   "A biker wearing a white t-shirt is jumping over dirt hills .",
+   "A bmx rider performs a jump while holding the bike with just his hands .",
+   "a man is airborne behind his bike whilst holding onto the handlebars as he attempting a jumping stunt .",
+   "A person performing a bodyless bicycle jump over dirt ramps ."
+  ],
+  "model_a": "a man is jumping on a bicycle on a bicycle",
+  "model_b": "a man is jumping on a ramp"
+ },
+ {
+  "image": "1232148178_4f45cc3284.jpg",
+  "references": [
+   "A baby girl playing at a park .",
+   "A closeup of a child on a playground with adult supervision .",
+   "A young boy poses for a picture in front of a playground .",
+   "A young girl is smiling in front of the camera at a park .",
+   "There is a little blond hair girl with a green sweatshirt and a red shirt playing on a playground ."
+  ],
+  "model_a": "a young girl in a pink shirt is standing on a <unk>",
+  "model_b": "a little girl in a pink shirt and a pink shirt and a pink shirt is standing on the grass"
+ },
+ {
+  "image": "358607894_5abb1250d3.jpg",
+  "references": [
+   "A man in a black hat reaches into a box .",
+   "A man in a black hat touches a cardboard box .",
+   "A man in a black hat , with a cardboard box .",
+   "A man wearing a black hat opening a cardboard box .",
+   "The man is opening a box ."
+  ],
+  "model_a": "a man in a hat is sitting on a <unk> <unk>",
+  "model_b": "a man in a hat is holding a hat"
+ },
+ {
+  "image": "3324056835_84904fe2f8.jpg",
+  "references": [
+   "A bunch of dogs on a beach .",
+   "Several dogs are running on the beach .",
+   "Six dogs running on the sandy beach .",
+   "Six dogs walking beside the beach .",
+   "Some dogs are running on a deserted beach ."
+  ],
+  "model_a": "three dogs run through the sand",
+  "model_b": "two dogs are running on the beach"
+ },
+ {
+  "image": "2640000969_b5404a5143.jpg",
+  "references": [
+   "A big brown dog jumps into a swimming pool on the backyard .",
+   "A dog in mid-leap into a pool .",
+   "Brown dog jumping into the pool",
+   "The brown dog is jumping into the crystal-clear pool .",
+   "The large brown dog is jumping into a swimming pool ."
+  ],
+  "model_a": "a young boy jumps into a pool",
+  "model_b": "a man jumping into a pool"
+ },
+ {
+  "image": "1285874746_486731a954.jpg",
+  "references": [
+   "a african-american woman stands in the crowd .",
+   "A dark-skinned woman in a blue dress is standing near a crowd .",
+   "A girl in a blue dress walks through a crowd of people .",
+   "A woman in a blue dress stands in a crowd .",
+   "The back of a lady wearing a blue halter top is shown , a crowd in the distance ."
+  ],
+  "model_a": "a group of people are standing in front of a <unk>",
+  "model_b": "a woman in a red shirt and a woman is holding a <unk> of people"
+ },
+ {
+  "image": "3708244207_0d3a2b2f92.jpg",
+  "references": [
+   "A dock over water with a palm tree at the end and five boats , during twilight .",
+   "A man stands on a dock near several boats , while 2 other men are on one of the boats .",
+   "Boats docked at a pier which has three men and a lone palm tree .",
+   "Boats parked at a marina at sunset .",
+   "There are three people on the dock by the boats ."
+  ],
+  "model_a": "a man is sitting on a dock on a lake",
+  "model_b": "a group of people on a dock on a dock on a lake"
+ },
+ {
+  "image": "2797149878_bb8e27ecf9.jpg",
+  "references": [
+   "A blond boy in a dark hoodie is holding a fishing rod .",
+   "A boy on the beach casts a fishing pole in the water .",
+   "A little boy is holding a fishing rod .",
+   "A young boy wearing a black hoodie is holding a fishing pole .",
+   "A young male holding a fishing pole ."
+  ],
+  "model_a": "a man in a black shirt is jumping off a <unk>",
+  "model_b": "a boy is jumping on a <unk>"
+ },
+ {
+  "image": "2312747482_20a81b2230.jpg",
+  "references": [
+   "A child peeks his head out from some flowers .",
+   "A child with blue eyes sitting amid flowers .",
+   "A kid playing in a bunch of flowers .",
+   "The brown haired toddler is holding onto the edge of a flower pot in a garden .",
+   "This small child is in a garden with flowers all around ."
+  ],
+  "model_a": "a little girl in a pink shirt is sitting on a swing",
+  "model_b": "a little boy in a pink shirt is standing in a park"
+ },
+ {
+  "image": "3332467180_d72f9b067d.jpg",
+  "references": [
+   "A man in a white restaraunt shirt smokes next to a dumpster .",
+   "A man is lighting a smoke outside of a building .",
+   "a man lighting a cigarette near a dumpster in an ally .",
+   "A man lights a cigarette on a loading dock near a dumpster .",
+   "The man is lighting a cigarette outside the back of a building ."
+  ],
+  "model_a": "a man in a white jacket is sitting on a <unk> <unk>",
+  "model_b": "a man in a red shirt and a black shirt is standing on a <unk>"
+ },
+ {
+  "image": "3259002340_707ce96858.jpg",
+  "references": [
+   "A black dog with a purple collar and a black leash runs in the grass .",
+   "A black dog with a purple collar is running .",
+   "A black dog with a purple collar running .",
+   "a black dog with purple collar running",
+   "The black dog is wearing a purple collar with a black leash as he is running ."
+  ],
+  "model_a": "a black dog runs through the grass",
+  "model_b": "a black dog is running through a grassy field"
+ },
+ {
+  "image": "532036676_e88b13e0a1.jpg",
+  "references": [
+   "a boy in a white shirt and jeans in what looks like a black camper",
+   "A child in a white shirt and jeans .",
+   "A little boy in a white shirt and jeans stands in an R.V.",
+   "A little boy stands in the doorway of a van .",
+   "A small boy in jeans and a white shirt holding a piece of paper in a black vehicle ."
+  ],
+  "model_a": "a man is standing on a <unk> of a <unk>",
+  "model_b": "a man standing on a <unk> of a <unk>"
+ },
+ {
+  "image": "2806632713_edd6f6c893.jpg",
+  "references": [
+   "A person belted into a bungee-jumping ride in midair .",
+   "A person is flipping upside down while attached to some bungee cords .",
+   "A person is suspended by wires and poles against a blue sky .",
+   "A person wearing a white shirt and blue shorts with cables attached to him .",
+   "A shoeless strapped in individual jumping with rubber bands attached is airborne ."
+  ],
+  "model_a": "a person is jumping over a <unk>",
+  "model_b": "a man is jumping in a <unk>"
+ },
+ {
+  "image": "2658009523_b49d611db8.jpg",
+  "references": [
+   "A brown dog and a red dog frolicking on the waters edge on the beach .",
+   "two brown dogs are running on the beach beside the ocean .",
+   "Two brown dogs chase and playfully fight with each other on the sandy beach .",
+   "Two brown dogs play on the sand by the water .",
+   "Two dogs running down a beach ."
+  ],
+  "model_a": "two dogs are playing in the water",
+  "model_b": "two brown dogs are running on the beach"
+ },
+ {
+  "image": "191592626_477ef5e026.jpg",
+  "references": [
+   "A climber is scaling a mountain cliff .",
+   "A man climbs up a mountain .",
+   "A man in a white helmet and huge backpack is rock climbing .",
+   "A mountain climber follows the edge of the mountain .",
+   "A mountain climber has reached the top of a brown rock ."
+  ],
+  "model_a": "a man is climbing a rock",
+  "model_b": "a man is climbing a rock wall"
+ },
+ {
+  "image": "437917001_ae1106f34e.jpg",
+  "references": [
+   "A dark colored man is laying on newspapers by a metal railing with his shoes off .",
+   "A homeless man is lying on the ground with his stuff strewn around .",
+   "A homeless man is sleeping outside at the top of a staircase .",
+   "An man is sleeping on top of his clothes on concrete stairs .",
+   "Man sleeping on the street ."
+  ],
+  "model_a": "a young boy sitting on a bench on a bench",
+  "model_b": "a man is sitting on a <unk> <unk>"
+ },
+ {
+  "image": "3543378438_47e2712486.jpg",
+  "references": [
+   "A man dressed in a green jacket is playing piano while a woman sings .",
+   "A man is sitting in front of a harpsichord , and a woman is preparing to sing .",
+   "A person playing the piano with a singer nearby .",
+   "A pianist and a singer are ready to perform .",
+   "The man in the green jacket is playing the piano next to a woman who is by a music stand ."
+  ],
+  "model_a": "a man in a <unk> <unk> is <unk> at a <unk>",
+  "model_b": "a man in a <unk> <unk> is <unk> a <unk>"
+ },
+ {
+  "image": "2265096094_8cc34d669c.jpg",
+  "references": [
+   "A donkey pulling a cart with a boy in it takes a brake .",
+   "A donkey pulling a car with a man on it",
+   "A mule is carring a man in a cart next to some palm trees .",
+   "A mule pulling a carriage with a man inside along a dirt path .",
+   "A person is pulled in a cart by a donkey ."
+  ],
+  "model_a": "a group of people are sitting on a <unk>",
+  "model_b": "a group of people are sitting on a <unk>"
+ },
+ {
+  "image": "3264937930_9623496b64.jpg",
+  "references": [
+   "A crowd surrounds a grounded hot air balloon .",
+   "A group of people are firing up a hot air balloon .",
+   "A group of people climb into a hot air balloon .",
+   "A hot-air balloon getting filled .",
+   "People gathered around a hot air balloon in the process of inflating ."
+  ],
+  "model_a": "two men in a red <unk> <unk>",
+  "model_b": "a man is <unk> a <unk> of a <unk>"
+ },
+ {
+  "image": "3401647850_685c03ffff.jpg",
+  "references": [
+   "A big , brown dog is shaking off while in the water .",
+   "A brown dog is in the water shaking its head .",
+   "A dog that is down in water is shaking off .",
+   "A large brown dog begins to shake while standing in the water .",
+   "The large dog wading in the water and shaking ."
+  ],
+  "model_a": "a dog is swimming in the water",
+  "model_b": "a brown dog is running through the water"
+ },
+ {
+  "image": "2642350864_099c0f2152.jpg",
+  "references": [
+   "A girl smiles while riding on the back of a cart in a grocery store .",
+   "A little girl is riding on the front of a shopping cart in a store .",
+   "A little girl wearing blue is riding the end of a shopping cart in a grocery store .",
+   "A young girl with a front tooth missing dressed in a plaid skirt and blue shirt riding on a shopping cart in a grocery store .",
+   "Girl with brown hair in a blue shirt and blue and white skirt holding on to a shopping cart in a store ."
+  ],
+  "model_a": "a woman in a pink dress is standing in front of a <unk>",
+  "model_b": "two young girls are sitting on a <unk>"
+ },
+ {
+  "image": "2088120475_d6318364f5.jpg",
+  "references": [
+   "A person dressed up as a snowman is walking through a crowd of people .",
+   "five cold people in the snowstorm , one wearing a snowman head",
+   "People pose for a picture in the snow",
+   "Three young people pose by a snowman in a red tie .",
+   "Two couples pose with a snowman ."
+  ],
+  "model_a": "a woman in a white jacket and a woman in a blue jacket and a <unk> and a woman in a blue jacket",
+  "model_b": "a woman in a white jacket and a woman in a white jacket and a white jacket is standing in the snow"
+ },
+ {
+  "image": "3320356356_1497e53f80.jpg",
+  "references": [
+   "a man climbs a rock .",
+   "A man in green climbs a rock in a darkened forest .",
+   "A man scales a rock in the forest .",
+   "man climbing a rock",
+   "The man in the blue shirt climbs a large rock in a wooded area ."
+  ],
+  "model_a": "a group of people are walking through the woods",
+  "model_b": "a group of people are walking through the woods"
+ },
+ {
+  "image": "1224851143_33bcdd299c.jpg",
+  "references": [
+   "A boy eats with a spoon .",
+   "A little boy holds a spoon up to his mouth .",
+   "A little boy is eating his food off of a spoon while sitting on a patio .",
+   "A small child dressed in green is eating with a spoon .",
+   "A young child holds a spoon to its mouth while sitting in a chair ."
+  ],
+  "model_a": "a boy is sitting on a <unk>",
+  "model_b": "a baby in a pink shirt is holding a <unk>"
+ },
+ {
+  "image": "733172023_5810350af6.jpg",
+  "references": [
+   "A girl in an orange tank top stands outside a cafe .",
+   "a girl standing outside of a clothing shop",
+   "A woman stands near chairs and tables , outside a store .",
+   "A woman stands outside near a dress shop .",
+   "There is a sidewalk with a rack of dresses and a girl in jeans and a red shirt ."
+  ],
+  "model_a": "a group of people are sitting on a <unk>",
+  "model_b": "a man sits on a <unk> <unk>"
+ },
+ {
+  "image": "241347356_8a515555fd.jpg",
+  "references": [
+   "A football player tries diving after another player .",
+   "A pro football player tackles another player on the goal line in a crowded stadium .",
+   "Football player in white and purple uniform with legs being tackled by player in red and white uniform .",
+   "Football player tackling another player in a football game .",
+   "The red football player is grabbing the purple and white player 's leg to try and stop him ."
+  ],
+  "model_a": "a football player in a red uniform is running on the grass",
+  "model_b": "a football player in red and white uniforms are playing on the ball"
+ },
+ {
+  "image": "1579287915_4257c54451.jpg",
+  "references": [
+   "A lone man stands on a rocky outcropping and looks out over the wilderness .",
+   "A man in shorts and a black jacket stands on top of a big rock looking down on hills and valleys .",
+   "A man is standing on a big rock overlooking a valley .",
+   "A man stands atop a large mountain of rocks .",
+   "Man standing on edge of large rock overlooking scenic view ."
+  ],
+  "model_a": "a hiker is climbing a cliff",
+  "model_b": "a man is climbing a rock rock climbing a rock wall"
+ },
+ {
+  "image": "2666078276_f7b3056997.jpg",
+  "references": [
+   "A dog leaps on the beach .",
+   "A playful dog is jumping on the sand .",
+   "Brown dog is leaping up into the air .",
+   "The collared dog is jumping into the air .",
+   "There is a brown dog leaping on the beach ."
+  ],
+  "model_a": "a dog is running through the sand",
+  "model_b": "a brown dog is running through the beach"
+ },
+ {
+  "image": "3273625566_2454f1556b.jpg",
+  "references": [
+   "A black greyhound in white and green coming up on the rear of a white greyhound in yellow and black in a race .",
+   "A greyhound running on a track .",
+   "Racing dog with yellow number 8 vest",
+   "The greyhound is running in a race .",
+   "The racing dog has a muzzle and is wearing striped jersey # 8 ."
+  ],
+  "model_a": "two dogs racing in the air",
+  "model_b": "a dog is running through the air"
+ },
+ {
+  "image": "3103231330_db98b14501.jpg",
+  "references": [
+   "A man in a blue jacket and gloves is standing in the street among other people .",
+   "A man in a brightly-colored ski jacket stands with others on a European street .",
+   "A man in a colorful jacket walks down the street surrounded by women in winter clothing .",
+   "The man in a blue jacket is standing in a crowd .",
+   "The man in the blue jacket is walking in a crowd of people past an English pub ."
+  ],
+  "model_a": "a man and a man and a woman in a red jacket and a white jacket",
+  "model_b": "a man in a red jacket and a man and a man in a red jacket and a man and a <unk> <unk>"
+ }
+]

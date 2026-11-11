@@ -1,0 +1,82 @@
+[global] epoch   1 | train loss 5.0773 acc 0.163 | val loss 4.4289 acc 0.223 | val BLEU-4 0.0620 | 4.1s  *
+[global] epoch   2 | train loss 4.4653 acc 0.223 | val loss 4.1224 acc 0.259 | val BLEU-4 0.0697 | 3.4s  *
+[global] epoch   3 | train loss 4.1838 acc 0.254 | val loss 3.8955 acc 0.279 | val BLEU-4 0.0753 | 3.0s  *
+[global] epoch   4 | train loss 3.9794 acc 0.273 | val loss 3.7398 acc 0.292 | val BLEU-4 0.0771 | 3.9s  *
+[global] epoch   5 | train loss 3.8216 acc 0.287 | val loss 3.6205 acc 0.302 | val BLEU-4 0.0736 | 3.6s  *
+[global] epoch   6 | train loss 3.6961 acc 0.299 | val loss 3.5229 acc 0.314 | val BLEU-4 0.0685 | 3.2s  *
+[global] epoch   7 | train loss 3.5942 acc 0.307 | val loss 3.4490 acc 0.320 | val BLEU-4 0.0810 | 2.7s  *
+[global] epoch   8 | train loss 3.5084 acc 0.315 | val loss 3.3825 acc 0.325 | val BLEU-4 0.0960 | 3.9s  *
+[global] epoch   9 | train loss 3.4297 acc 0.321 | val loss 3.3259 acc 0.332 | val BLEU-4 0.0991 | 3.3s  *
+[global] epoch  10 | train loss 3.3639 acc 0.327 | val loss 3.2817 acc 0.333 | val BLEU-4 0.0802 | 3.3s  *
+[global] epoch  11 | train loss 3.3035 acc 0.333 | val loss 3.2446 acc 0.334 | val BLEU-4 0.0864 | 3.4s  *
+[global] epoch  12 | train loss 3.2531 acc 0.336 | val loss 3.2025 acc 0.339 | val BLEU-4 0.0876 | 3.4s  *
+[global] epoch  13 | train loss 3.1976 acc 0.342 | val loss 3.1729 acc 0.342 | val BLEU-4 0.0964 | 3.2s  *
+[global] epoch  14 | train loss 3.1521 acc 0.345 | val loss 3.1445 acc 0.344 | val BLEU-4 0.1106 | 2.9s  *
+[global] epoch  15 | train loss 3.1116 acc 0.349 | val loss 3.1184 acc 0.342 | val BLEU-4 0.1194 | 3.4s  *
+[global] epoch  16 | train loss 3.0689 acc 0.352 | val loss 3.0976 acc 0.346 | val BLEU-4 0.1121 | 3.1s  *
+[global] epoch  17 | train loss 3.0316 acc 0.356 | val loss 3.0781 acc 0.348 | val BLEU-4 0.1199 | 3.5s  *
+[global] epoch  18 | train loss 2.9963 acc 0.360 | val loss 3.0563 acc 0.350 | val BLEU-4 0.1142 | 3.5s  *
+[global] epoch  19 | train loss 2.9610 acc 0.362 | val loss 3.0378 acc 0.349 | val BLEU-4 0.1214 | 3.3s  *
+[global] epoch  20 | train loss 2.9284 acc 0.366 | val loss 3.0222 acc 0.353 | val BLEU-4 0.1354 | 2.9s  *
+[global] epoch  21 | train loss 2.8946 acc 0.371 | val loss 3.0053 acc 0.353 | val BLEU-4 0.1359 | 3.1s  *
+[global] epoch  22 | train loss 2.8689 acc 0.372 | val loss 2.9949 acc 0.355 | val BLEU-4 0.1250 | 3.3s  *
+[global] epoch  23 | train loss 2.8386 acc 0.376 | val loss 2.9853 acc 0.356 | val BLEU-4 0.1250 | 3.3s  *
+[global] epoch  24 | train loss 2.8107 acc 0.381 | val loss 2.9762 acc 0.357 | val BLEU-4 0.1354 | 4.1s  *
+[global] epoch  25 | train loss 2.7905 acc 0.382 | val loss 2.9637 acc 0.359 | val BLEU-4 0.1202 | 3.4s  *
+[global] epoch  26 | train loss 2.7637 acc 0.386 | val loss 2.9578 acc 0.359 | val BLEU-4 0.1365 | 3.3s  *
+[global] epoch  27 | train loss 2.7365 acc 0.387 | val loss 2.9486 acc 0.358 | val BLEU-4 0.1395 | 3.1s  *
+[global] epoch  28 | train loss 2.7103 acc 0.390 | val loss 2.9365 acc 0.358 | val BLEU-4 0.1327 | 3.2s  *
+[global] epoch  29 | train loss 2.6874 acc 0.394 | val loss 2.9307 acc 0.362 | val BLEU-4 0.1255 | 3.4s  *
+[global] epoch  30 | train loss 2.6665 acc 0.395 | val loss 2.9277 acc 0.361 | val BLEU-4 0.1470 | 3.4s  *
+[global] epoch  31 | train loss 2.6489 acc 0.399 | val loss 2.9240 acc 0.360 | val BLEU-4 0.1447 | 3.6s  *
+[global] epoch  32 | train loss 2.6233 acc 0.403 | val loss 2.9185 acc 0.360 | val BLEU-4 0.1290 | 3.2s  *
+[global] epoch  33 | train loss 2.6066 acc 0.403 | val loss 2.9141 acc 0.365 | val BLEU-4 0.1477 | 3.4s  *
+[global] epoch  34 | train loss 2.5866 acc 0.407 | val loss 2.9066 acc 0.361 | val BLEU-4 0.1501 | 3.3s  *
+[global] epoch  35 | train loss 2.5705 acc 0.408 | val loss 2.8993 acc 0.365 | val BLEU-4 0.1578 | 3.5s  *
+[global] epoch  36 | train loss 2.5537 acc 0.411 | val loss 2.8995 acc 0.364 | val BLEU-4 0.1499 | 4.2s
+[global] epoch  37 | train loss 2.5372 acc 0.412 | val loss 2.9007 acc 0.363 | val BLEU-4 0.1456 | 3.3s
+[global] epoch  38 | train loss 2.5181 acc 0.415 | val loss 2.8915 acc 0.366 | val BLEU-4 0.1664 | 3.3s  *
+[global] epoch  39 | train loss 2.5037 acc 0.417 | val loss 2.8889 acc 0.366 | val BLEU-4 0.1544 | 5.0s  *
+[global] epoch  40 | train loss 2.4869 acc 0.420 | val loss 2.8927 acc 0.362 | val BLEU-4 0.1471 | 3.1s
+[global] best epoch 39 (val loss 2.8889), training time 136.4s, learnable parameters 4,301,514
+[attention] epoch   1 | train loss 5.0644 acc 0.166 | val loss 4.3821 acc 0.228 | val BLEU-4 0.0618 | 5.7s  *
+[attention] epoch   2 | train loss 4.3865 acc 0.234 | val loss 4.0369 acc 0.267 | val BLEU-4 0.0742 | 6.5s  *
+[attention] epoch   3 | train loss 4.0923 acc 0.265 | val loss 3.8183 acc 0.288 | val BLEU-4 0.0879 | 5.5s  *
+[attention] epoch   4 | train loss 3.8955 acc 0.283 | val loss 3.6673 acc 0.301 | val BLEU-4 0.0949 | 5.5s  *
+[attention] epoch   5 | train loss 3.7404 acc 0.299 | val loss 3.5586 acc 0.313 | val BLEU-4 0.0994 | 6.9s  *
+[attention] epoch   6 | train loss 3.6183 acc 0.310 | val loss 3.4592 acc 0.321 | val BLEU-4 0.0854 | 4.3s  *
+[attention] epoch   7 | train loss 3.5132 acc 0.319 | val loss 3.3926 acc 0.329 | val BLEU-4 0.1043 | 6.8s  *
+[attention] epoch   8 | train loss 3.4261 acc 0.328 | val loss 3.3294 acc 0.329 | val BLEU-4 0.0925 | 5.4s  *
+[attention] epoch   9 | train loss 3.3457 acc 0.334 | val loss 3.2848 acc 0.333 | val BLEU-4 0.1063 | 5.2s  *
+[attention] epoch  10 | train loss 3.2770 acc 0.339 | val loss 3.2415 acc 0.336 | val BLEU-4 0.1088 | 5.4s  *
+[attention] epoch  11 | train loss 3.2115 acc 0.347 | val loss 3.2077 acc 0.339 | val BLEU-4 0.0975 | 4.9s  *
+[attention] epoch  12 | train loss 3.1552 acc 0.353 | val loss 3.1708 acc 0.339 | val BLEU-4 0.1046 | 5.6s  *
+[attention] epoch  13 | train loss 3.0997 acc 0.359 | val loss 3.1455 acc 0.340 | val BLEU-4 0.1032 | 5.2s  *
+[attention] epoch  14 | train loss 3.0500 acc 0.361 | val loss 3.1212 acc 0.344 | val BLEU-4 0.1314 | 4.7s  *
+[attention] epoch  15 | train loss 3.0051 acc 0.368 | val loss 3.0978 acc 0.347 | val BLEU-4 0.1321 | 6.9s  *
+[attention] epoch  16 | train loss 2.9602 acc 0.373 | val loss 3.0880 acc 0.349 | val BLEU-4 0.1357 | 4.6s  *
+[attention] epoch  17 | train loss 2.9175 acc 0.377 | val loss 3.0677 acc 0.349 | val BLEU-4 0.1329 | 4.6s  *
+[attention] epoch  18 | train loss 2.8809 acc 0.382 | val loss 3.0554 acc 0.345 | val BLEU-4 0.1245 | 5.5s  *
+[attention] epoch  19 | train loss 2.8407 acc 0.385 | val loss 3.0390 acc 0.350 | val BLEU-4 0.1253 | 5.9s  *
+[attention] epoch  20 | train loss 2.8047 acc 0.389 | val loss 3.0355 acc 0.351 | val BLEU-4 0.1331 | 5.9s  *
+[attention] epoch  21 | train loss 2.7733 acc 0.394 | val loss 3.0245 acc 0.350 | val BLEU-4 0.1314 | 6.0s  *
+[attention] epoch  22 | train loss 2.7409 acc 0.397 | val loss 3.0188 acc 0.353 | val BLEU-4 0.1362 | 4.6s  *
+[attention] epoch  23 | train loss 2.7087 acc 0.402 | val loss 3.0106 acc 0.350 | val BLEU-4 0.1241 | 5.7s  *
+[attention] epoch  24 | train loss 2.6792 acc 0.404 | val loss 2.9979 acc 0.354 | val BLEU-4 0.1370 | 4.9s  *
+[attention] epoch  25 | train loss 2.6552 acc 0.407 | val loss 2.9914 acc 0.352 | val BLEU-4 0.1356 | 5.8s  *
+[attention] epoch  26 | train loss 2.6281 acc 0.410 | val loss 2.9969 acc 0.350 | val BLEU-4 0.1336 | 6.1s
+[attention] epoch  27 | train loss 2.5973 acc 0.415 | val loss 2.9864 acc 0.353 | val BLEU-4 0.1400 | 5.2s  *
+[attention] epoch  28 | train loss 2.5723 acc 0.418 | val loss 2.9859 acc 0.348 | val BLEU-4 0.1353 | 6.2s  *
+[attention] epoch  29 | train loss 2.5483 acc 0.419 | val loss 2.9848 acc 0.352 | val BLEU-4 0.1345 | 4.9s  *
+[attention] epoch  30 | train loss 2.5211 acc 0.424 | val loss 2.9782 acc 0.354 | val BLEU-4 0.1338 | 4.9s  *
+[attention] epoch  31 | train loss 2.4994 acc 0.426 | val loss 2.9796 acc 0.353 | val BLEU-4 0.1445 | 5.8s
+[attention] epoch  32 | train loss 2.4750 acc 0.431 | val loss 2.9869 acc 0.353 | val BLEU-4 0.1484 | 5.5s
+[attention] epoch  33 | train loss 2.4563 acc 0.432 | val loss 2.9840 acc 0.350 | val BLEU-4 0.1448 | 6.3s
+[attention] epoch  34 | train loss 2.4334 acc 0.436 | val loss 2.9726 acc 0.351 | val BLEU-4 0.1334 | 5.5s  *
+[attention] epoch  35 | train loss 2.4139 acc 0.440 | val loss 2.9632 acc 0.356 | val BLEU-4 0.1542 | 7.6s  *
+[attention] epoch  36 | train loss 2.3956 acc 0.439 | val loss 2.9738 acc 0.351 | val BLEU-4 0.1412 | 5.6s
+[attention] epoch  37 | train loss 2.3777 acc 0.443 | val loss 2.9880 acc 0.352 | val BLEU-4 0.1325 | 4.8s
+[attention] epoch  38 | train loss 2.3578 acc 0.446 | val loss 2.9707 acc 0.359 | val BLEU-4 0.1485 | 6.0s
+[attention] epoch  39 | train loss 2.3428 acc 0.448 | val loss 2.9742 acc 0.355 | val BLEU-4 0.1521 | 5.3s
+[attention] epoch  40 | train loss 2.3204 acc 0.451 | val loss 2.9793 acc 0.353 | val BLEU-4 0.1379 | 6.2s
+[attention] best epoch 35 (val loss 2.9632), training time 224.0s, learnable parameters 4,891,338

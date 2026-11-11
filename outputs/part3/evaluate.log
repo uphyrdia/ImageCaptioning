@@ -1,0 +1,155 @@
+Model A (global context): test BLEU-4 = 0.1560 | time 111.3s | params 4,301,514
+Model B (spatial attention): test BLEU-4 = 0.1607 | time 222.8s | params 4,891,338
+{
+ "global": {
+  "test": {
+   "bleu1": 0.5744570837642192,
+   "bleu2": 0.38910100099282047,
+   "bleu3": 0.2508840815118627,
+   "bleu4": 0.15597621362203826
+  },
+  "best_epoch": 49,
+  "best_val_loss": 2.879900185141817,
+  "val_bleu4_best_ckpt": 0.15425903209765088,
+  "last_epoch_ckpt": {
+   "test_bleu4": 0.13943918650586082,
+   "val_bleu4": 0.1302025429377886,
+   "val_loss": 2.912293152511625,
+   "train_loss": 2.0568284755061406
+  },
+  "train_loss_at_best": 2.3591991452492302,
+  "train_time_sec": 111.30868540902156,
+  "mean_epoch_time_sec": 1.3913585676127695,
+  "learnable_params": 4301514,
+  "caption_stats": {
+   "mean_length": 9.67,
+   "distinct_captions": 187,
+   "distinct_words": 145,
+   "unk_tokens": 113,
+   "copied_from_training_set": 6
+  }
+ },
+ "attention_stats": {
+  "mean_entropy_nats": 2.567990779876709,
+  "uniform_entropy_nats": 3.8918202981106265,
+  "mean_max_weight": 0.2714601755142212,
+  "uniform_weight": 0.02040816326530612,
+  "mean_effective_regions": 15.72274398803711
+ },
+ "attention_by_word": {
+  "a": {
+   "count": 458,
+   "mean_max_weight": 0.29392806772451735,
+   "mean_effective_regions": 14.168520804919655
+  },
+  "<end>": {
+   "count": 198,
+   "mean_max_weight": 0.23970000351769755,
+   "mean_effective_regions": 18.126580828842176
+  },
+  "<unk>": {
+   "count": 175,
+   "mean_max_weight": 0.2521435534102576,
+   "mean_effective_regions": 16.259209623806054
+  },
+  "is": {
+   "count": 145,
+   "mean_max_weight": 0.22012217183565272,
+   "mean_effective_regions": 18.16670438251786
+  },
+  "in": {
+   "count": 101,
+   "mean_max_weight": 0.2815718178701873,
+   "mean_effective_regions": 14.371520912076303
+  },
+  "man": {
+   "count": 80,
+   "mean_max_weight": 0.44951492343097926,
+   "mean_effective_regions": 8.233621664305973
+  },
+  "on": {
+   "count": 79,
+   "mean_max_weight": 0.20762874516127985,
+   "mean_effective_regions": 18.696105286286365
+  },
+  "and": {
+   "count": 63,
+   "mean_max_weight": 0.20359156079708585,
+   "mean_effective_regions": 19.42841339423378
+  },
+  "the": {
+   "count": 53,
+   "mean_max_weight": 0.17305182278999742,
+   "mean_effective_regions": 20.303759174217618
+  },
+  "shirt": {
+   "count": 47,
+   "mean_max_weight": 0.20357927648310967,
+   "mean_effective_regions": 18.40179445233121
+  },
+  "dog": {
+   "count": 41,
+   "mean_max_weight": 0.4353932224032355,
+   "mean_effective_regions": 10.272838635110391
+  },
+  "running": {
+   "count": 36,
+   "mean_max_weight": 0.2313809696998861,
+   "mean_effective_regions": 15.104188335095655
+  },
+  "through": {
+   "count": 33,
+   "mean_max_weight": 0.16075433135935754,
+   "mean_effective_regions": 21.013866030589526
+  },
+  "white": {
+   "count": 31,
+   "mean_max_weight": 0.19852288427852816,
+   "mean_effective_regions": 19.30082174414323
+  }
+ },
+ "attention": {
+  "test": {
+   "bleu1": 0.554380664652568,
+   "bleu2": 0.3741550239506894,
+   "bleu3": 0.24616646808807754,
+   "bleu4": 0.1607232796098067
+  },
+  "best_epoch": 35,
+  "best_val_loss": 2.963239084728373,
+  "val_bleu4_best_ckpt": 0.15424430659636507,
+  "last_epoch_ckpt": {
+   "test_bleu4": 0.15061362507674803,
+   "val_bleu4": 0.14672404415813844,
+   "val_loss": 3.1089878428908033,
+   "train_loss": 1.827109489530872
+  },
+  "train_loss_at_best": 2.413942018220209,
+  "train_time_sec": 222.820882339729,
+  "mean_epoch_time_sec": 2.7852610292466125,
+  "learnable_params": 4891338,
+  "caption_stats": {
+   "mean_length": 9.93,
+   "distinct_captions": 187,
+   "distinct_words": 124,
+   "unk_tokens": 175,
+   "copied_from_training_set": 3
+  }
+ },
+ "bootstrap": {
+  "ci95_a": [
+   0.13251677717169533,
+   0.17752771174422072
+  ],
+  "ci95_b": [
+   0.13089019319260095,
+   0.18773668312286773
+  ],
+  "ci95_diff_b_minus_a": [
+   -0.02412410549263213,
+   0.03036808632107312
+  ],
+  "p_b_better": 0.614
+ }
+}
+qualitative test indices: [91, 88, 164]
