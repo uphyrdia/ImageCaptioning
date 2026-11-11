@@ -9,9 +9,13 @@ The tool was used to write the Python code, run the experiments on my GPU, produ
 
 # Part 1: Data Loading and Preprocessing
 
+The constants used throughout Part 1:
+
+![Configuration constants](outputs/part1/Configuration.png)
+
 ## 1.1 Data loading and random subset selection
 
-Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` seeds the RNG with **595** (`SEED`), draws 2,000 images with `random.sample(image_list, 2000)`, and splits them into 1,600 training, 200 validation and 200 test images together with their captions.
+Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` seeds the RNG with **595**, draws 2,000 images with `random.sample(image_list, 2000)`, and splits them into 1,600 training, 200 validation and 200 test images together with their captions.
 
 ![Data loading and splitting code](outputs/part1/data_loading_splitting.png)
 
@@ -19,20 +23,22 @@ Flickr8k was downloaded from Kaggle (`adityajn105/flickr8k`). `select_subset` se
 
 ![Image transform code](outputs/part1/image_transform.png)
 
-`IMAGENET_MEAN = [0.485, 0.456, 0.406]` and `IMAGENET_STD = [0.229, 0.224, 0.225]`.
-
 ## 1.3 Text normalisation and tokenisation
 
 1. **Normalisation** — lower-case and remove all non-alphanumeric characters (`normalize_caption`).
 2. **Framing** — prepend `<start>` and append `<end>` (`frame_caption`).
-3. **Vocabulary** — built from the training captions only, keeping words that appear at least 5 times (`MIN_WORD_FREQ = 5`), plus `<pad>`, `<start>`, `<end>`, `<unk>`; `word2idx` and `idx2word` are the two mappings (`Vocabulary`).
+3. **Vocabulary** — built from the training captions only, keeping words that appear at least 5 times, plus `<pad>`, `<start>`, `<end>`, `<unk>`; `word2idx` and `idx2word` are the two mappings (`Vocabulary`).
 4. **Tokenisation and padding** — words are mapped to integers, unknown words to `<unk>`, and every sequence is padded with `<pad>` to the longest training sequence (`Vocabulary.encode`, `pad_sequence_to`).
 
 ![Text normalisation, vocabulary and padding code](outputs/part1/text_normalization_vocabulary.png)
 
 `prepare_data` applies these steps to the three splits. The vocabulary and the padding length are computed from the training split only.
 
-![Pipeline assembly code](outputs/code/p1_prepare_data.png)
+![Pipeline assembly code](outputs/part1/prepare_data.png)
+
+`FlickrSubsetDataset` returns each image after the image transform, together with its 5 encoded captions.
+
+![Dataset class code](outputs/part1/FlickrSubsetDataset.png)
 
 The resulting vocabulary has **1,226** entries (1,222 words + 4 special tokens) and every caption is padded to length **35**.
 
