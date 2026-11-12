@@ -39,58 +39,56 @@ The tool was used to write the Python code, run the experiments on my GPU, produ
 
 # Part 2: Architectural Implementation
 
-## 2.1 Freeze or fine-tune the ResNet-50 encoder?
+## 2.1 Feature extraction strategy
 
-**I froze the ResNet-50 encoder** for both Model A and Model B.
+I froze the ResNet-50 encoder for both Model A and Model B.
 
-- **Overfitting risk.** The training set has only 1,600 images, while the encoder has 23.5 M parameters. Fine-tuning it would mostly memorise the training images.
-- **Fair comparison.** Both models receive exactly the same visual features, so any difference in results comes from the decoder's context formulation.
-- **Efficiency.** A frozen encoder gives the same output for an image every time, so the features are extracted once and reused in every epoch of both models.
+- Overfitting risk. The training set has only 1,600 images, while the encoder has 23.5 M parameters. Fine-tuning it would mostly memorise the training images.
+- Fair comparison. Both models receive exactly the same visual features, so any difference in results comes from the decoder's context formulation.
+- Efficiency. A frozen encoder gives the same output for an image every time, so the features are extracted once and reused in every epoch of both models.
 
 ## 2.2 Feature extraction pipeline
 
 `EncoderCNN` passes the image through the ResNet-50 stem and stages 1–4, and returns the spatial grid `(Batch, 2048, 7, 7)` and the GAP vector **v** `(Batch, 2048)`.
 
-![Encoder code](outputs/code/p2_encoder.png)
+![Encoder code](outputs/part2/EncoderCNN.png)
 
 `extract_features` runs the Part 1 transform and the frozen encoder over each split and stores the grid.
 
-![Feature extraction code](outputs/code/p2_extract_features.png)
+![Feature extraction code](outputs/part2/FeatureExtraction.png)
 
 ## 2.3 The two modular decoders
 
 Both decoders share one base class: a 256-d embedding layer, a single-layer LSTM with a 256-d hidden state whose input is the concatenation of the embedded token and the context vector, and a fully connected classification head. They differ only in `context()`.
 
-![Shared decoder code](outputs/code/p2_decoder_shared.png)
+![Shared decoder code](outputs/part2/DecoderBase.png)
 
 - **Model A (`GlobalContextDecoder`)** uses the static vector **v** at every time step.
 - **Model B (`AttentionDecoder`)** computes a dynamic context $u_t$ at every step with scaled dot-product attention between the previous hidden state $h_{t-1}$ and the 49 spatial features $a_i$:
 
 $$e_{t,i} = \frac{(W_q h_{t-1})^\top (W_k a_i)}{\sqrt{d}}, \qquad \alpha_t = \mathrm{softmax}(e_t), \qquad u_t = \sum_{i=1}^{49} \alpha_{t,i}\, a_i$$
 
-![Model A and Model B decoder code](outputs/code/p2_decoder_variants.png)
+![Model A and Model B decoder code](outputs/part2/TwoDecoders.png)
 
 ## 2.4 Teacher forcing and autoregressive generation
 
 **Training (teacher forcing).** At step *t* the decoder input is the ground-truth token `captions[:, t]`, and the output is scored against `captions[:, t+1]`.
 
-![Teacher forcing code](outputs/code/p2_teacher_forcing.png)
-
 **Inference (greedy search).** Decoding starts from `<start>`. At each step the highest-probability word is selected with `argmax` and fed back as the next input, until `<end>` is produced.
 
-![Greedy search code](outputs/code/p2_greedy_search.png)
+![Teacher forcing and greedy search code](outputs/part2/TeacherForcingAutoRegressive.png)
 
 ## 2.5 Main model class
 
 `ImageCaptioner(vocab_size, variant)` builds Model A for `variant="global"` and Model B for `variant="attention"`; the encoder and the training and inference interfaces are shared.
 
-![Main model class](outputs/code/p2_main_model.png)
+![Main model class](outputs/part2/MainModel.png)
 
 ---
 
 # Part 3: Ablation Study and Comparative Analysis
 
-Both variants were trained with the same settings on the same GPU (RTX 4080 SUPER).
+Both variants were trained with the same settings on the same GPU.
 
 | Setting | Value |
 |---|---|

@@ -20,7 +20,7 @@ DROPOUT = 0.5
 
 
 # --------------------------------------------------------------------------- #
-# CNN encoder (visual feature extraction)
+# CNN encoder
 # --------------------------------------------------------------------------- #
 class EncoderCNN(nn.Module):
     """Pre-trained ResNet-50 without its classification head.
@@ -36,8 +36,8 @@ class EncoderCNN(nn.Module):
         super().__init__()
         resnet = resnet50(weights=ResNet50_Weights.IMAGENET1K_V1)
         self.stem = nn.Sequential(resnet.conv1, resnet.bn1, resnet.relu, resnet.maxpool)
-        self.stages = nn.Sequential(resnet.layer1, resnet.layer2,      # stages 1-2
-                                    resnet.layer3, resnet.layer4)      # stages 3-4
+        self.stages = nn.Sequential(resnet.layer1, resnet.layer2,      
+                                    resnet.layer3, resnet.layer4)      
         self.gap = nn.AdaptiveAvgPool2d(1)                             # global average pooling
         for p in self.parameters():                                    # freeze every weight
             p.requires_grad = False
