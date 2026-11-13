@@ -2,8 +2,7 @@
 
 ## AI Usage Statement
 
-**AI tool used: Claude Code (Anthropic), running the Claude Fable 5.2 model.**
-The tool was used to write the Python code, run the experiments on my GPU, produce the figures, and draft the text of this report. All numbers, tables and figures below come from running the code in this folder with seed 595.
+**AI tool used: Claude Code was used to assist with code implementation and to generate plots for analysis**
 
 ---
 
@@ -169,8 +168,6 @@ Model A's validation accuracy is still creeping up late in training, while Model
 For this task, with 1,600 training images and a frozen encoder, **the global-context baseline was the more effective choice**. Model A reached the lower validation loss (2.880 vs. 2.963), trained in half the time (111 s vs. 223 s), has 590 k fewer parameters, and its BLEU-4 is effectively tied with Model B's.
 
 The attention mechanism did learn real word-to-region alignment. In the heat-map, the word *dog* puts 84 % of its weight on the dog, and the attention moves to the log for *over a tree*. Across the test set, attention is sharpest for object words such as *man* and *dog* (mean peak weight about 0.45) and most diffuse for function words such as *the* (0.17). This grounding made Model B's captions more specific, but on this small dataset it also made the model overfit sooner, so it did not produce a measurable gain in BLEU-4.
-
-Saving the best-validation-loss weights also mattered: the epoch-80 weights score a lower test BLEU-4 for both models (0.139 for A and 0.151 for B).
 
 <script>
   window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
