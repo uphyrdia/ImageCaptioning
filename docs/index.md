@@ -41,7 +41,7 @@ The tool was used to write the Python code, run the experiments on my GPU, produ
 
 ## 2.1 Feature extraction strategy
 
-I froze the ResNet-50 encoder for both Model A and Model B.
+I froze the ResNet-50 encoder for both Model A and Model B, for the following reasons:
 
 - Overfitting risk. The training set has only 1,600 images, while the encoder has 23.5 M parameters. Fine-tuning it would mostly memorise the training images.
 - Fair comparison. Both models receive exactly the same visual features, so any difference in results comes from the decoder's context formulation.
@@ -127,9 +127,9 @@ Attention maps of Model B for the first image. Each panel shows the weights $\al
 
 ### A.4 Code for BLEU-4 and the attention visualisation
 
-![BLEU-4 code](outputs/code/p3_bleu.png)
+![Caption generation and corpus-level BLEU-4 code](outputs/part3/Caption_Generation_and_Corpus_Level_BLEU_4.png)
 
-![Attention visualisation code](outputs/code/p3_attention_vis.png)
+![Attention visualisation code](outputs/part3/AttentionVisualization.png)
 
 ## B. Comparative Analysis
 
