@@ -171,3 +171,8 @@ For this task, with 1,600 training images and a frozen encoder, **the global-con
 The attention mechanism did learn real word-to-region alignment. In the heat-map, the word *dog* puts 84 % of its weight on the dog, and the attention moves to the log for *over a tree*. Across the test set, attention is sharpest for object words such as *man* and *dog* (mean peak weight about 0.45) and most diffuse for function words such as *the* (0.17). This grounding made Model B's captions more specific, but on this small dataset it also made the model overfit sooner, so it did not produce a measurable gain in BLEU-4.
 
 Saving the best-validation-loss weights also mattered: the epoch-80 weights score a lower test BLEU-4 for both models (0.139 for A and 0.151 for B).
+
+<script>
+  window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
